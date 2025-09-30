@@ -7,7 +7,11 @@
 [Управление](/sys/control)|[Мир](/sys/world)|[Кланы](/sys/clan)|[Гайды](/sys/guide)
 [/table]
  
-[Примеры.](/example)
+[Примеры](/example)
 
-[Команда](/sys/about/team) системы.
+👥 [Команда системы](/sys/about/team)
 
+
+🌐 [Сайт игры](https://new.mechs.su/)
+💬 [Discord](https://discord.gg/taXjguFneE)
+📣 [ВКонтакте](https://vk.com/mechs)
