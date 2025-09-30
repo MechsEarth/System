@@ -1,0 +1,13 @@
+{
+    "childrenSlugs": [
+        "sys/update/4-0-88"
+    ],
+    "markdownContent": "# Список последних обновлений",
+    "parentSlug": "sys",
+    "parentTitles": [
+        "ЕСИ"
+    ],
+    "slug": "sys/update",
+    "tagSlugs": [],
+    "title": "Обновления"
+}

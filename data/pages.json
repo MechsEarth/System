@@ -1,0 +1,172 @@
+{
+    "pages": [
+        {
+            "childrenSlugs": [
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/about/team",
+                            "title": "Команда"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/about/join",
+                            "title": "Вступить"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/about/roots",
+                            "title": "Зарождение системы"
+                        }
+                    ],
+                    "slug": "sys/about",
+                    "title": "Что это?"
+                },
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/account/rating-fight",
+                            "title": "Боевой рейтинг аккаунта"
+                        }
+                    ],
+                    "slug": "sys/account",
+                    "title": "Аккаунт"
+                },
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/character/abilities",
+                            "title": "Умение"
+                        }
+                    ],
+                    "slug": "sys/character",
+                    "title": "Персонаж"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/tasks",
+                    "title": "Задания"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/entity",
+                    "title": "Существа"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/economy",
+                    "title": "Экономика"
+                },
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/items/chips/chaos",
+                                    "title": "Хаос"
+                                }
+                            ],
+                            "slug": "sys/items/chips",
+                            "title": "Чипы"
+                        }
+                    ],
+                    "slug": "sys/items",
+                    "title": "Предметы"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/robots",
+                    "title": "Роботы"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/modification",
+                    "title": "Модификация"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/world",
+                    "title": "Мир"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/clan",
+                    "title": "Кланы"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/guide",
+                    "title": "Гайды"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "sys/control",
+                    "title": "Управление"
+                },
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/update/4-0-88",
+                            "title": "4-0-88"
+                        }
+                    ],
+                    "slug": "sys/update",
+                    "title": "Обновления"
+                }
+            ],
+            "slug": "sys",
+            "title": "ЕСИ"
+        },
+        {
+            "childrenSlugs": [
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/markdawn",
+                    "title": "Разметка"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/table",
+                    "title": "Результаты боев"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/emoji",
+                    "title": "Эмодзи"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/icon",
+                    "title": "Иконки"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/block",
+                    "title": "Блоки"
+                }
+            ],
+            "slug": "example",
+            "title": "Примеры"
+        },
+        {
+            "childrenSlugs": [],
+            "slug": "ai-dialog",
+            "title": "ai-dialog"
+        },
+        {
+            "childrenSlugs": [],
+            "slug": "under-construction",
+            "title": "Упс! Что-то пошло не так"
+        },
+        {
+            "childrenSlugs": [],
+            "slug": "home",
+            "title": "Начало"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Использование таблиц для разделения.\n[table]\nБлок 1 различный текст\\n с переносами.|Блок 2|Блок 3|Блок 4\nПример 1|Пример 2|Пример 3|Пример 4\n[/table]",
+    "parentSlug": "example",
+    "parentTitles": [
+        "Примеры"
+    ],
+    "slug": "example/block",
+    "tagSlugs": [],
+    "title": "Блоки"
+}

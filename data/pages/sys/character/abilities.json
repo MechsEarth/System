@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "Характеристики умений затрагивают различные аспекты развития вашего персонажа.\nНапример: умение владения оружием, умение использовать защиту и т.д.\n\n[Аккаунта](home/account)",
+    "parentSlug": "sys/character",
+    "parentTitles": [
+        "ЕСИ",
+        "Персонаж"
+    ],
+    "slug": "sys/character/abilities",
+    "tagSlugs": [],
+    "title": "Умение"
+}

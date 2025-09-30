@@ -1,0 +1,14 @@
+{
+    "childrenSlugs": [
+        "sys/items/chips/chaos"
+    ],
+    "markdownContent": "",
+    "parentSlug": "sys/items",
+    "parentTitles": [
+        "ЕСИ",
+        "Предметы"
+    ],
+    "slug": "sys/items/chips",
+    "tagSlugs": [],
+    "title": "Чипы"
+}

@@ -1,0 +1,13 @@
+{
+    "childrenSlugs": [
+        "sys/character/abilities"
+    ],
+    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.",
+    "parentSlug": "sys",
+    "parentTitles": [
+        "ЕСИ"
+    ],
+    "slug": "sys/character",
+    "tagSlugs": [],
+    "title": "Персонаж"
+}

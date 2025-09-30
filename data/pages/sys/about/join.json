@@ -1,0 +1,14 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "\nОписание как стать участником.",
+    "parentSlug": "sys/about",
+    "parentTitles": [
+        "ЕСИ",
+        "Что это?"
+    ],
+    "slug": "sys/about/join",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Вступить"
+}

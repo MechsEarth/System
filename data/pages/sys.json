@@ -1,0 +1,26 @@
+{
+    "childrenSlugs": [
+        "sys/about",
+        "sys/account",
+        "sys/character",
+        "sys/tasks",
+        "sys/entity",
+        "sys/economy",
+        "sys/items",
+        "sys/robots",
+        "sys/modification",
+        "sys/world",
+        "sys/clan",
+        "sys/guide",
+        "sys/control",
+        "sys/update"
+    ],
+    "markdownContent": "[(?)](/sys/about) ЕСИ — твой навигатор в мире мехов!\n \nОсновные разделы.\n[table]\n[АККАУНТ](/sys/account)|[Персонаж](/sys/character)|[Задания](/sys/tasks)|[Существа](/sys/entity)\n[Экономика](/sys/economy)|[Предметы](/sys/items)|[Роботы](/sys/robots)|[Модификация](/sys/modification)\n[Управление](/sys/control)|[Мир](/sys/world)|[Кланы](/sys/clan)|[Гайды](/sys/guide)\n[/table]\n \n[Примеры.](/example)\n\n[Команда](/sys/about/team) системы.\n\n",
+    "parentSlug": "",
+    "parentTitles": [],
+    "slug": "sys",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "ЕСИ"
+}
