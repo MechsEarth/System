@@ -93,7 +93,13 @@
                     "title": "Мир"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/clan/25",
+                            "title": "Game_Master"
+                        }
+                    ],
                     "slug": "sys/clan",
                     "title": "Кланы"
                 },
@@ -117,6 +123,22 @@
                     ],
                     "slug": "sys/update",
                     "title": "Обновления"
+                },
+                {
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/event/mor-1-10-25",
+                            "title": "Поход на Мора 1 октября"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/event/team-3x3-september",
+                            "title": "Командные 3x3 сентябрь"
+                        }
+                    ],
+                    "slug": "sys/event",
+                    "title": "События"
                 }
             ],
             "slug": "sys",

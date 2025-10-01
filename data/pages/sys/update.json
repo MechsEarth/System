@@ -2,7 +2,7 @@
     "childrenSlugs": [
         "sys/update/4-0-88"
     ],
-    "markdownContent": "# Список последних обновлений",
+    "markdownContent": "# Список последних обновлений\n\n[4-0-88](/sys/update/4-0-88) от 1 октября.",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"

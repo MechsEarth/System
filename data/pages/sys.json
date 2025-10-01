@@ -13,9 +13,10 @@
         "sys/clan",
         "sys/guide",
         "sys/control",
-        "sys/update"
+        "sys/update",
+        "sys/event"
     ],
-    "markdownContent": "[(?)](/sys/about) ЕСИ — твой навигатор в мире мехов!\n \nОсновные разделы.\n[table]\n[АККАУНТ](/sys/account)|[Персонаж](/sys/character)|[Задания](/sys/tasks)|[Существа](/sys/entity)\n[Экономика](/sys/economy)|[Предметы](/sys/items)|[Роботы](/sys/robots)|[Модификация](/sys/modification)\n[Управление](/sys/control)|[Мир](/sys/world)|[Кланы](/sys/clan)|[Гайды](/sys/guide)\n[/table]\n \n[Примеры](/example)\n\n👥 [Команда системы](/sys/about/team)\n\n\n🌐 [Сайт игры](https://new.mechs.su/)\n💬 [Discord](https://discord.gg/taXjguFneE)\n📣 [ВКонтакте](https://vk.com/mechs)",
+    "markdownContent": "[(?)](/sys/about) ЕСИ — твой навигатор в мире мехов!\n \nОсновные разделы.\n[table]\n[АККАУНТ](/sys/account)|Персонаж|Задания|Существа\nЭкономика|Предметы|Роботы|Модификация\n[Управление](/sys/control)|Мир|[Кланы](/sys/clan)|Гайды\n[/table]\n \n⚔️[Игровые события](/sys/event)\n🔄[Обновления](/sys/update)\n\n👥 [Команда системы](/sys/about/team)\n\n\n🌐 [Сайт игры](https://new.mechs.su/)\n💬 [Discord](https://discord.gg/taXjguFneE)\n📣 [ВКонтакте](https://vk.com/mechs)",
     "parentSlug": "",
     "parentTitles": [],
     "slug": "sys",

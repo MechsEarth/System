@@ -1,0 +1,14 @@
+{
+    "childrenSlugs": [
+        "sys/event/mor-1-10-25",
+        "sys/event/team-3x3-september"
+    ],
+    "markdownContent": "### Текущие игровые события.\n\n[Поход на Мора 1 октября](/sys/event/mor-1-10-25)\n\n[Итоги командных 3x3 боев за сентябрь](/sys/event/team-3x3-september)",
+    "parentSlug": "sys",
+    "parentTitles": [
+        "ЕСИ"
+    ],
+    "slug": "sys/event",
+    "tagSlugs": [],
+    "title": "События"
+}
