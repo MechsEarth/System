@@ -4,7 +4,7 @@
 [table]
 #1|TERRORISTS
 #2|ChAoS~ArchiTectS
-#3|Cerberus
+#3|[Cerberus](/sys/clan/13)
 #4|<<STORM>>
 #5|KJIAH
 #6|Tortuga

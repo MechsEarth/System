@@ -98,6 +98,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/clan/25",
                             "title": "Game_Master"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/clan/13",
+                            "title": "Cerberus"
                         }
                     ],
                     "slug": "sys/clan",
