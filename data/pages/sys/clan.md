@@ -1,3 +1,21 @@
- 
-⚠️ Страница ещё не готова.
-Мы работаем над её наполнением — загляните позже.
+# Информация о кланах
+Каждый клан может [разместить](/sys/about/join) в [ЕСИ](/sys) свою страницу или даже целый раздел, который доступен всем.
+## Список кланов(пока ТОП15).
+[table]
+#1|TERRORISTS
+#2|ChAoS~ArchiTectS
+#3|Cerberus
+#4|<<STORM>>
+#5|KJIAH
+#6|Tortuga
+#7|xXx
+#8|~TROUBLE~
+#9|FREEDOM
+#10|Breaking_Bad
+#11|<MIR>
+#12|3BE3DA
+#13|<ENIGMA>
+#14|<~SOLO~>
+#15|AFK
+#|[Game_Master](/sys/clan/25)
+[/table]

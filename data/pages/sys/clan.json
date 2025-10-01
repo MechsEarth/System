@@ -1,6 +1,8 @@
 {
-    "childrenSlugs": [],
-    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.",
+    "childrenSlugs": [
+        "sys/clan/25"
+    ],
+    "markdownContent": "# Информация о кланах\nКаждый клан может [разместить](/sys/about/join) в [ЕСИ](/sys) свою страницу или даже целый раздел, который доступен всем.\n## Список кланов(пока ТОП15).\n[table]\n#1|TERRORISTS\n#2|ChAoS~ArchiTectS\n#3|Cerberus\n#4|<<STORM>>\n#5|KJIAH\n#6|Tortuga\n#7|xXx\n#8|~TROUBLE~\n#9|FREEDOM\n#10|Breaking_Bad\n#11|<MIR>\n#12|3BE3DA\n#13|<ENIGMA>\n#14|<~SOLO~>\n#15|AFK\n#|[Game_Master](/sys/clan/25)\n[/table]",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
