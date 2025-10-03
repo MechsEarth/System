@@ -1,11 +1,15 @@
 {
-    "childrenSlugs": [],
-    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.",
+    "childrenSlugs": [
+        "sys/tasks/filin"
+    ],
+    "markdownContent": "Данный раздел представляет собой полный каталог заданий и наград, доступных в игровом мире. Здесь содержится информация о каждом типе квеста.\n[table] [Филин](/sys/tasks/filin) [/table]",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
     ],
     "slug": "sys/tasks",
-    "tagSlugs": [],
+    "tagSlugs": [
+        "wiki"
+    ],
     "title": "Задания"
 }
