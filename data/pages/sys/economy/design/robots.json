@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [
+        "sys/economy/design/robots/filin-plan"
+    ],
+    "markdownContent": "# Чертежи для изготовления роботов\n\n[Филин](/sys/economy/design/robots/filin-plan)",
+    "parentSlug": "sys/economy/design",
+    "parentTitles": [
+        "ЕСИ",
+        "Экономика",
+        "Чертежи"
+    ],
+    "slug": "sys/economy/design/robots",
+    "tagSlugs": [],
+    "title": "Роботы"
+}

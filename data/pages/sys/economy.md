@@ -1,1 +1,1 @@
-[Чертежи](/sys/economy/plan)
+[Чертежи](/sys/economy/design)

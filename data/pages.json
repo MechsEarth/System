@@ -71,18 +71,23 @@
                         {
                             "childrenSlugs": [
                                 {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/design/packages",
+                                    "title": "Паки"
+                                },
+                                {
                                     "childrenSlugs": [
                                         {
                                             "childrenSlugs": [],
-                                            "slug": "sys/economy/plan/packages/filin-plan",
-                                            "title": "Чертеж Филин"
+                                            "slug": "sys/economy/design/robots/filin-plan",
+                                            "title": "Филин"
                                         }
                                     ],
-                                    "slug": "sys/economy/plan/packages",
-                                    "title": "Паков"
+                                    "slug": "sys/economy/design/robots",
+                                    "title": "Роботы"
                                 }
                             ],
-                            "slug": "sys/economy/plan",
+                            "slug": "sys/economy/design",
                             "title": "Чертежи"
                         }
                     ],

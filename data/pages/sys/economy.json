@@ -1,8 +1,8 @@
 {
     "childrenSlugs": [
-        "sys/economy/plan"
+        "sys/economy/design"
     ],
-    "markdownContent": "[Чертежи](/sys/economy/plan)",
+    "markdownContent": "[Чертежи](/sys/economy/design)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
