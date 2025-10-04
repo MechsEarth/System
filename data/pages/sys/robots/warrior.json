@@ -1,0 +1,16 @@
+{
+    "childrenSlugs": [
+        "sys/robots/warrior/filin"
+    ],
+    "markdownContent": "[table]\n[Филин](/sys/robots/warrior/filin)\n[/table]",
+    "parentSlug": "sys/robots",
+    "parentTitles": [
+        "ЕСИ",
+        "Роботы"
+    ],
+    "slug": "sys/robots/warrior",
+    "tagSlugs": [
+        "robots"
+    ],
+    "title": "Боец"
+}
