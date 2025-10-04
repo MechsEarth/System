@@ -1,5 +1,6 @@
 {
     "childrenSlugs": [
+        "sys/whats-new",
         "sys/about",
         "sys/account",
         "sys/character",
