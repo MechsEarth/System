@@ -1,6 +1,8 @@
 {
-    "childrenSlugs": [],
-    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.",
+    "childrenSlugs": [
+        "sys/robots/warrior"
+    ],
+    "markdownContent": "# Типы роботов\n[table]\n[Боец](/sys/robots/warrior)\n[/table]",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
