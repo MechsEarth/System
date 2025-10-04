@@ -3,6 +3,11 @@
         {
             "childrenSlugs": [
                 {
+                    "childrenSlugs": [],
+                    "slug": "sys/whats-new",
+                    "title": "Что нового?"
+                },
+                {
                     "childrenSlugs": [
                         {
                             "childrenSlugs": [],
