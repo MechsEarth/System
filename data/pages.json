@@ -62,7 +62,25 @@
                     "title": "Существа"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/plan/packages/filin-plan",
+                                            "title": "Чертеж Филин"
+                                        }
+                                    ],
+                                    "slug": "sys/economy/plan/packages",
+                                    "title": "Паков"
+                                }
+                            ],
+                            "slug": "sys/economy/plan",
+                            "title": "Чертежи"
+                        }
+                    ],
                     "slug": "sys/economy",
                     "title": "Экономика"
                 },
@@ -84,7 +102,19 @@
                     "title": "Предметы"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/robots/warrior/filin",
+                                    "title": "Филин"
+                                }
+                            ],
+                            "slug": "sys/robots/warrior",
+                            "title": "Боец"
+                        }
+                    ],
                     "slug": "sys/robots",
                     "title": "Роботы"
                 },
