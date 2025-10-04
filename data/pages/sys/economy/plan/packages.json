@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [
+        "sys/economy/plan/packages/filin-plan"
+    ],
+    "markdownContent": "# Чертежи для изготовления паков\n[table]\n[Филин](/sys/economy/plan/packages/filin-plan)|Подарок|Пак броня|\nКазуар|Подарок большой|Пак защита|\nСнеговик|Подарок большой хеллоуин|Пак скорость\nПушка заморозка|Ремпак 9000|Пак поля\n|Пак ресурсы|Пак прочность\n[/table]\n",
+    "parentSlug": "sys/economy/plan",
+    "parentTitles": [
+        "ЕСИ",
+        "Экономика",
+        "Чертежи"
+    ],
+    "slug": "sys/economy/plan/packages",
+    "tagSlugs": [],
+    "title": "Паков"
+}
