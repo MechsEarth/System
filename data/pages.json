@@ -155,7 +155,13 @@
                     "title": "Кланы"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/quest",
+                            "title": "Квесты"
+                        }
+                    ],
                     "slug": "sys/guide",
                     "title": "Гайды"
                 },
