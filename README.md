@@ -2,6 +2,8 @@
 
 **Единая система информации** — масштабная информационная платформа игры [МЕХИ. Земля](https://mechs.su), создаваемая игроками для игроков.
 
+*Changelog:* [Что нового?](https://github.com/MechsEarth/System/blob/main/data/pages/sys/whats-new.md)
+
 ![preview](/data/textures/preview.png)
 
 ***
