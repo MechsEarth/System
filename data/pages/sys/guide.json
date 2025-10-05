@@ -1,8 +1,8 @@
 {
     "childrenSlugs": [
-        "sys/guide/quest"
+        "sys/guide/main-quest"
     ],
-    "markdownContent": "## Этот раздел создан для помощи игрокам. Надеемся, что он будет полезен.\n\n➖ [Квесты](/sys/guide/quest)",
+    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Основные квесты](/sys/guide/main-quest)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"

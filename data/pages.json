@@ -158,8 +158,8 @@
                     "childrenSlugs": [
                         {
                             "childrenSlugs": [],
-                            "slug": "sys/guide/quest",
-                            "title": "Квесты"
+                            "slug": "sys/guide/main-quest",
+                            "title": "Основные квесты"
                         }
                     ],
                     "slug": "sys/guide",
