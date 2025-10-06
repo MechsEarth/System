@@ -1,6 +1,7 @@
 {
     "childrenSlugs": [
-        "sys/guide/main-quest"
+        "sys/guide/main-quest",
+        "sys/guide/status"
     ],
     "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Основные квесты](/sys/guide/main-quest)",
     "parentSlug": "sys",

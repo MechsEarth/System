@@ -160,6 +160,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/main-quest",
                             "title": "Основные квесты"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/status",
+                            "title": "Виды статусов персонажа"
                         }
                     ],
                     "slug": "sys/guide",
