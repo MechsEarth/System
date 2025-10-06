@@ -4,7 +4,7 @@
         "sys/guide/status",
         "sys/guide/fur-for-a-fighter"
     ],
-    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [ЕСИ: Боец](/sys/guide/fur-for-a-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Виды статусов персонажа](/sys/guide/status)\n",
+    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [ЕСИ: Боец](/sys/guide/fur-for-a-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Криминальный статус персонажа](/sys/guide/status)\n",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
