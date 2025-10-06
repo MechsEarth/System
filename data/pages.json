@@ -165,6 +165,16 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/main-quest",
                             "title": "Основные квесты"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/status",
+                            "title": "Виды статусов персонажа"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/fur-for-a-fighter",
+                            "title": "ЕСИ: Боец"
                         }
                     ],
                     "slug": "sys/guide",
