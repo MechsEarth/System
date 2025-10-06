@@ -3,7 +3,7 @@
         "sys/guide/main-quest",
         "sys/guide/status"
     ],
-    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Основные квесты](/sys/guide/main-quest)",
+    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Виды статусов персонажа](/sys/guide/status)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
