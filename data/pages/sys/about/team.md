@@ -4,8 +4,8 @@
 Формируется при внесении изменений в систему.
 [Присоединиться к ядру.](/sys/about/join)
 
-CAPAH4A
 Exziz
+CAPAH4A
 ZVUM
 Xaki
 K0HAH
