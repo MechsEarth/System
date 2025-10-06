@@ -149,6 +149,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/clan/13",
                             "title": "Cerberus"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/clan/10",
+                            "title": "<<STORM>>"
                         }
                     ],
                     "slug": "sys/clan",
