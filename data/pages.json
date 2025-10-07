@@ -211,6 +211,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/update/4-0-88",
                             "title": "4-0-88"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/update/4-0-90",
+                            "title": "4-0-90"
                         }
                     ],
                     "slug": "sys/update",
@@ -262,6 +267,11 @@
                     "childrenSlugs": [],
                     "slug": "example/block",
                     "title": "Блоки"
+                },
+                {
+                    "childrenSlugs": [],
+                    "slug": "example/internal-image",
+                    "title": "Картинки ЕСИ"
                 }
             ],
             "slug": "example",

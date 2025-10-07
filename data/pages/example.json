@@ -4,7 +4,8 @@
         "example/table",
         "example/emoji",
         "example/icon",
-        "example/block"
+        "example/block",
+        "example/internal-image"
     ],
     "markdownContent": "\n# Базовые элементы\n[Базовая разметка](/example/markdawn)\n[Эмодзи](/example/emoji)\n[Иконки](/example/icon)\n\n# Пример таблиц\n[Результаты боев](/example/table)\n[Разбить на блоки](/example/block)\n\n\n👉[Вернуться к ЕСИ.](/sys)",
     "parentSlug": "",
