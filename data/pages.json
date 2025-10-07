@@ -185,6 +185,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/chat-commands",
                             "title": "Чат команды"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/nations",
+                            "title": "Бонусы от наций"
                         }
                     ],
                     "slug": "sys/guide",

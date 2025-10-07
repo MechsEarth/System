@@ -4,3 +4,4 @@
 ➖ [Криминальный статус персонажа](/sys/guide/status)
 ➖ [Рейды, Охотник](/sys/guide/raids-hunter)
 ➖ [Чат команды](/sys/guide/chat-commands)
+➖ [Бонусы от наций](/sys/guide/nations)
