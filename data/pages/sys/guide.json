@@ -3,9 +3,10 @@
         "sys/guide/main-quest",
         "sys/guide/status",
         "sys/guide/fur-for-a-fighter",
-        "sys/guide/raids-hunter"
+        "sys/guide/raids-hunter",
+        "sys/guide/chat-commands"
     ],
-    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Как выбрать робота для бойца?](/sys/guide/fur-for-a-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Криминальный статус персонажа](/sys/guide/status)\n",
+    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Как выбрать робота для бойца?](/sys/guide/fur-for-a-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Криминальный статус персонажа](/sys/guide/status)\n➖ [Рейды, Охотник](/sys/guide/raids-hunter)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
