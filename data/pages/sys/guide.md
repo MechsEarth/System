@@ -3,3 +3,4 @@
 ➖ [Основные квесты](/sys/guide/main-quest)
 ➖ [Криминальный статус персонажа](/sys/guide/status)
 ➖ [Рейды, Охотник](/sys/guide/raids-hunter)
+➖ [Чат команды](/sys/guide/chat-commands)

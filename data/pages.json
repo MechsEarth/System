@@ -180,6 +180,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/raids-hunter",
                             "title": "Рейды, Охотник"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/chat-commands",
+                            "title": "Чат команды"
                         }
                     ],
                     "slug": "sys/guide",
