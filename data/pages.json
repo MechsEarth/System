@@ -180,6 +180,21 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/fur-for-a-fighter",
                             "title": "Типы боевых роботов"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/raids-hunter",
+                            "title": "Рейды, Охотник"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/chat-commands",
+                            "title": "Чат команды"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/nations",
+                            "title": "Бонусы от наций"
                         }
                     ],
                     "slug": "sys/guide",
