@@ -154,6 +154,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/clan/10",
                             "title": "<<STORM>>"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/clan/15",
+                            "title": "Do3oP"
                         }
                     ],
                     "slug": "sys/clan",

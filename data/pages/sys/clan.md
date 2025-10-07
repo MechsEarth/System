@@ -17,5 +17,6 @@
 #13|<ENIGMA>
 #14|<~SOLO~>
 #15|AFK
+#16|[Do3oP](/sys/clan/15)
 #|[Game_Master](/sys/clan/25)
 [/table]
