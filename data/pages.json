@@ -175,6 +175,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/fur-for-a-fighter",
                             "title": "Типы боевых роботов"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/raids-hunter",
+                            "title": "Рейды, Охотник"
                         }
                     ],
                     "slug": "sys/guide",
