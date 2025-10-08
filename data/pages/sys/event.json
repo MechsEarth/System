@@ -1,9 +1,10 @@
 {
     "childrenSlugs": [
         "sys/event/mor-1-10-25",
-        "sys/event/team-3x3-september"
+        "sys/event/team-3x3-september",
+        "sys/event/campaign"
     ],
-    "markdownContent": "### Текущие игровые события.\n\n[Поход на Мора 1 октября](/sys/event/mor-1-10-25)\n\n[Итоги командных 3x3 боев за сентябрь](/sys/event/team-3x3-september)",
+    "markdownContent": "### Текущие игровые события.\n\n2025-10-08\n___\n![w=48 h=35](img/sys/event/liriy.png)Совместный поход к [вулканам Лирого](/sys/event/campaign/liriy).\n\n🛡️Совместные [походы](/sys/event/campaign) по средам.",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"

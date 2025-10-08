@@ -232,6 +232,17 @@
                             "childrenSlugs": [],
                             "slug": "sys/event/team-3x3-september",
                             "title": "Командные 3x3 сентябрь"
+                        },
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/event/campaign/liriy",
+                                    "title": "Вулканы Лирого"
+                                }
+                            ],
+                            "slug": "sys/event/campaign",
+                            "title": "Походы"
                         }
                     ],
                     "slug": "sys/event",

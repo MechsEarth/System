@@ -1,0 +1,14 @@
+{
+    "childrenSlugs": [
+        "sys/event/campaign/liriy"
+    ],
+    "markdownContent": "\n# Доступны по средам в 20:00 МСК, чередуются\n![w=48 h=35](img/sys/event/liriy.png)[Вулканы Лирого](/sys/event/campaign/liriy)",
+    "parentSlug": "sys/event",
+    "parentTitles": [
+        "ЕСИ",
+        "События"
+    ],
+    "slug": "sys/event/campaign",
+    "tagSlugs": [],
+    "title": "Походы"
+}
