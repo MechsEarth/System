@@ -201,7 +201,18 @@
                     "title": "Гайды"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/control/shortcut",
+                            "title": "Горячие клавиши"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/control/xbox",
+                            "title": "Xbox"
+                        }
+                    ],
                     "slug": "sys/control",
                     "title": "Управление"
                 },
