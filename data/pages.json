@@ -134,7 +134,19 @@
                     "title": "Модификация"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/1",
+                                    "title": "База новобранцев"
+                                }
+                            ],
+                            "slug": "sys/world/map",
+                            "title": "Карты"
+                        }
+                    ],
                     "slug": "sys/world",
                     "title": "Мир"
                 },

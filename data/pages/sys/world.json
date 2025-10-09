@@ -1,6 +1,8 @@
 {
-    "childrenSlugs": [],
-    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.",
+    "childrenSlugs": [
+        "sys/world/map"
+    ],
+    "markdownContent": " \n⚠️ Страница ещё не готова.\nМы работаем над её наполнением — загляните позже.\n\n\n[Карты](/sys/world/map)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
