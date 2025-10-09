@@ -227,6 +227,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/update/4-0-90",
                             "title": "4-0-90"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/update/4-0-91",
+                            "title": "Доработан ЕСИ браузер"
                         }
                     ],
                     "slug": "sys/update",
