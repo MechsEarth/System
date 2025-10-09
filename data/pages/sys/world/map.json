@@ -2,13 +2,13 @@
     "childrenSlugs": [
         "sys/world/map/1"
     ],
-    "markdownContent": "# Локации игры\n[База новобранцев](/sys/world/map/1)",
-    "parentSlug": "sys/world",
+    "markdownContent": "# Локации игры\n[База новобранцев](/sys/worlds/map/1)",
+    "parentSlug": "sys/worlds",
     "parentTitles": [
         "ЕСИ",
         "Мир"
     ],
-    "slug": "sys/world/map",
+    "slug": "sys/worlds/map",
     "tagSlugs": [],
     "title": "Карты"
 }
