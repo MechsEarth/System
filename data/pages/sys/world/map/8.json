@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nЦентральное укрепление\n![w=480 h=480](worlds/8/map)",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/8",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Центральное укрепление"
+}

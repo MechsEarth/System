@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание   \nЗалежи железной руды\n![w=480 h=480](worlds/9/map)",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/9",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Залежи железной руды"
+}

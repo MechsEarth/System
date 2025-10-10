@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nНеизвестный мир\n![w=480 h=480](worlds/12/map)",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/12",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Неизвестный мир"
+}

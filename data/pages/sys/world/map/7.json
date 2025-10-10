@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nЧерви\n![w=480 h=480](worlds/7/map)\n",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/7",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Черви"
+}

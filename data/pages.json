@@ -141,6 +141,251 @@
                                     "childrenSlugs": [],
                                     "slug": "sys/world/map/1",
                                     "title": "База новобранцев"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/2",
+                                    "title": "База  ОПОРА"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/3",
+                                    "title": "Полигон"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/4",
+                                    "title": "Каторга"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/5",
+                                    "title": "База ТРЕБА"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/6",
+                                    "title": "База КРАДА"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/7",
+                                    "title": "Черви"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/8",
+                                    "title": "Центральное укрепление"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/9",
+                                    "title": "Залежи железной руды"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/10",
+                                    "title": "База кротов"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/11",
+                                    "title": "Лабиринт"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/12",
+                                    "title": "Неизвестный мир"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/13",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/14",
+                                    "title": "Испытания #2"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/15",
+                                    "title": "Источник энергии"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/16",
+                                    "title": "Крушение"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/17",
+                                    "title": "Логово Теридиона"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/18",
+                                    "title": "Отравленные земли Ройтука"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/19",
+                                    "title": "Отстойник кислот"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/20",
+                                    "title": "Вулканы Лирого"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/21",
+                                    "title": "Заводы по переработке"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/22",
+                                    "title": "Переработка поллуцита"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/23",
+                                    "title": "Заброшенный центр связи"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/24",
+                                    "title": "Земли Опоры"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/25",
+                                    "title": "Земли Требы"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/26",
+                                    "title": "Земли Крады"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/27",
+                                    "title": "Газовые пещеры"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/28",
+                                    "title": "Ядовитые отходы"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/29",
+                                    "title": "Крушение"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/30",
+                                    "title": "Завод добычи магмы"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/31",
+                                    "title": "Заводы по прокачке"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/32",
+                                    "title": "Спуск в земли Крады"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/33",
+                                    "title": "База новобранцев"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/34",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/35",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/36",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/37",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/38",
+                                    "title": "База испытаний #1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/39",
+                                    "title": "База испытаний"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/40",
+                                    "title": "Подъем к магме"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/41",
+                                    "title": "Отстойник кислот"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/42",
+                                    "title": "Норы Тери"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/43",
+                                    "title": "Крушение"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/44",
+                                    "title": "Добыча магмы"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/45",
+                                    "title": "Прокачка робота"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/46",
+                                    "title": " Ядовитые земли"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/47",
+                                    "title": "Заброшенный центр связи"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/48",
+                                    "title": "Переработка поллуцита"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/49",
+                                    "title": "Земли Опоры"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/50",
+                                    "title": "Усиленная база кротов"
                                 }
                             ],
                             "slug": "sys/world/map",
