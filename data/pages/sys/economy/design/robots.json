@@ -1,8 +1,9 @@
 {
     "childrenSlugs": [
-        "sys/economy/design/robots/filin-plan"
+        "sys/economy/design/robots/filin-plan",
+        "sys/economy/design/robots/cassowary-plan"
     ],
-    "markdownContent": "# Чертежи для изготовления роботов\n\n[Филин](/sys/economy/design/robots/filin-plan)",
+    "markdownContent": "# Чертежи для изготовления роботов\n\n[Филин](/sys/economy/design/robots/filin-plan)\n[Казуар](/sys/economy/design/robots/cassowary-plan)",
     "parentSlug": "sys/economy/design",
     "parentTitles": [
         "ЕСИ",

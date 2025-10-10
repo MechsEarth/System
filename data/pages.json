@@ -44,7 +44,7 @@
                         {
                             "childrenSlugs": [],
                             "slug": "sys/character/abilities",
-                            "title": "Умения"
+                            "title": "Умение"
                         }
                     ],
                     "slug": "sys/character",
@@ -112,7 +112,98 @@
                     "title": "Задания"
                 },
                 {
-                    "childrenSlugs": [],
+                    "childrenSlugs": [
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/tuk",
+                            "title": "Тук"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/tuk-tem",
+                            "title": "Тук темный"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/spider",
+                            "title": "Паук"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/f-spider",
+                            "title": "Паук мохнатый"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/blue-spider",
+                            "title": "Паук синий"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/g-spider",
+                            "title": "Паук главный"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/s-beatle",
+                            "title": "Жук сенокосец"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/g-beatle",
+                            "title": "Жук главный"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/scorpio",
+                            "title": "Скорпион"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/mantis",
+                            "title": "Богомол"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/lizard",
+                            "title": "Варан"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/tuk-boss",
+                            "title": "Тук босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/spider-boss",
+                            "title": "Паук босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/scorpio-boss",
+                            "title": "Скорпион босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/mantis-boss",
+                            "title": "Богомол босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/lizard-boss",
+                            "title": "Варан босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/worm",
+                            "title": "Червь"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/z-worm",
+                            "title": "Червь зеркальный"
+                        }
+                    ],
                     "slug": "sys/entity",
                     "title": "Существа"
                 },
@@ -131,6 +222,11 @@
                                             "childrenSlugs": [],
                                             "slug": "sys/economy/design/robots/filin-plan",
                                             "title": "Филин"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/robots/cassowary-plan",
+                                            "title": "Казуар"
                                         }
                                     ],
                                     "slug": "sys/economy/design/robots",
@@ -169,6 +265,11 @@
                                     "childrenSlugs": [],
                                     "slug": "sys/robots/warrior/filin",
                                     "title": "Филин"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/robots/warrior/cassowary",
+                                    "title": "Казуар"
                                 }
                             ],
                             "slug": "sys/robots/warrior",

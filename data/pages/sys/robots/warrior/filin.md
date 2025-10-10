@@ -13,4 +13,3 @@
 Поля | 480
 Реген | 25 000 за 10 сек
 [/table]
-Подробности на [сайте](https://new.mechs.su/wiki/robots/fighter/owl)
