@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Усиленная база кротов\n![w=480 h=480](worlds/10/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/50",
+    "slug": "sys/world/map/fight/50",
     "tagSlugs": [
         "sys"
     ],

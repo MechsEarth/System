@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Заводы по переработке\n![w=480 h=480](worlds/21/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/22",
+    "slug": "sys/world/map/fight/22",
     "tagSlugs": [
         "sys"
     ],

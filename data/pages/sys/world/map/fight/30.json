@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Завод добычи магмы\n![w=480 h=480](worlds/20/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/30",
+    "slug": "sys/world/map/fight/30",
     "tagSlugs": [
         "sys"
     ],

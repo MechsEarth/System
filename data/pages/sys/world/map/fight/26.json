@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Земли Крады\n![w=480 h=480](worlds/6/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/26",
+    "slug": "sys/world/map/fight/26",
     "tagSlugs": [
         "sys"
     ],

@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Заброшенный центр связи\n![w=480 h=480](worlds/23/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/23",
+    "slug": "sys/world/map/fight/23",
     "tagSlugs": [
         "sys"
     ],

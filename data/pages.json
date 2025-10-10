@@ -174,7 +174,58 @@
                                     "title": "Общие"
                                 },
                                 {
-                                    "childrenSlugs": [],
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/21",
+                                            "title": "Заводы по переработке"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/22",
+                                            "title": "Переработка поллуцита"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/23",
+                                            "title": "Заброшенный центр связи"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/24",
+                                            "title": "Земли Опоры"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/25",
+                                            "title": "Земли Требы"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/26",
+                                            "title": "Земли Крады"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/28",
+                                            "title": "Ядовитые отходы"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/30",
+                                            "title": "Завод добычи магмы"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/31",
+                                            "title": "Заводы по прокачке"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/fight/50",
+                                            "title": "Усиленная база кротов"
+                                        }
+                                    ],
                                     "slug": "sys/world/map/fight",
                                     "title": "Боевые"
                                 },
@@ -311,58 +362,13 @@
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/21",
-                                    "title": "Заводы по переработке"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/22",
-                                    "title": "Переработка поллуцита"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/23",
-                                    "title": "Заброшенный центр связи"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/24",
-                                    "title": "Земли Опоры"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/25",
-                                    "title": "Земли Требы"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/26",
-                                    "title": "Земли Крады"
-                                },
-                                {
-                                    "childrenSlugs": [],
                                     "slug": "sys/world/map/27",
                                     "title": "Газовые пещеры"
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/28",
-                                    "title": "Ядовитые отходы"
-                                },
-                                {
-                                    "childrenSlugs": [],
                                     "slug": "sys/world/map/29",
                                     "title": "Крушение"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/30",
-                                    "title": "Завод добычи магмы"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/31",
-                                    "title": "Заводы по прокачке"
                                 },
                                 {
                                     "childrenSlugs": [],
@@ -403,11 +409,6 @@
                                     "childrenSlugs": [],
                                     "slug": "sys/world/map/39",
                                     "title": "База испытаний"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/50",
-                                    "title": "Усиленная база кротов"
                                 }
                             ],
                             "slug": "sys/world/map",

@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Заводы по прокачке\n![w=480 h=480](worlds/13/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/31",
+    "slug": "sys/world/map/fight/31",
     "tagSlugs": [
         "sys"
     ],

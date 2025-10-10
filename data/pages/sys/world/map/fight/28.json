@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Ядовитые отходы\n![w=480 h=480](worlds/18/map)\n",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/fight",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Боевые"
     ],
-    "slug": "sys/world/map/28",
+    "slug": "sys/world/map/fight/28",
     "tagSlugs": [
         "sys"
     ],

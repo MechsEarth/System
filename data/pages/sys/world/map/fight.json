@@ -1,5 +1,16 @@
 {
-    "childrenSlugs": [],
+    "childrenSlugs": [
+        "sys/world/map/fight/21",
+        "sys/world/map/fight/22",
+        "sys/world/map/fight/23",
+        "sys/world/map/fight/24",
+        "sys/world/map/fight/25",
+        "sys/world/map/fight/26",
+        "sys/world/map/fight/28",
+        "sys/world/map/fight/30",
+        "sys/world/map/fight/31",
+        "sys/world/map/fight/50"
+    ],
     "markdownContent": "",
     "parentSlug": "sys/world/map",
     "parentTitles": [
