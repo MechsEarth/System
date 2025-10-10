@@ -1,0 +1,16 @@
+{
+    "childrenSlugs": [
+        "sys/event/tok/newbie",
+        "sys/event/tok/sergeant",
+        "sys/event/tok/middle"
+    ],
+    "markdownContent": " # Турник ТОК БИТВ.\n![w=470 h=264 y=-10](img/sys/event/tok.jpg)\nКатегории:\n  * [Рядовой](/sys/event/tok/newbie)\n  * [Сержант](/sys/event/tok/sergeant)\n  * Старшина\n  * ТОП\n\n*ТОК* - Треба, Опора, Крада.",
+    "parentSlug": "sys/event",
+    "parentTitles": [
+        "ЕСИ",
+        "События"
+    ],
+    "slug": "sys/event/tok",
+    "tagSlugs": [],
+    "title": "ТОК"
+}

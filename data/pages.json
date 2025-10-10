@@ -540,6 +540,27 @@
                             ],
                             "slug": "sys/event/campaign",
                             "title": "Походы"
+                        },
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/event/tok/newbie",
+                                    "title": "Рядовой"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/event/tok/sergeant",
+                                    "title": "Сержант"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/event/tok/middle",
+                                    "title": "Рядовые и сержанты"
+                                }
+                            ],
+                            "slug": "sys/event/tok",
+                            "title": "ТОК"
                         }
                     ],
                     "slug": "sys/event",
