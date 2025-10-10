@@ -44,7 +44,7 @@
                         {
                             "childrenSlugs": [],
                             "slug": "sys/character/abilities",
-                            "title": "Умение"
+                            "title": "Умения"
                         }
                     ],
                     "slug": "sys/character",
@@ -56,6 +56,56 @@
                             "childrenSlugs": [],
                             "slug": "sys/tasks/filin",
                             "title": "Филин"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/the-crash",
+                            "title": "Крушение"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/loot",
+                            "title": "Лут"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/destroy-monsters",
+                            "title": "Зачистка монстров"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/destroy-bosses",
+                            "title": "Зачистка боссов"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/find-the-artifacts",
+                            "title": "Найди артефакты"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/study-the-equipment",
+                            "title": "Изучи снаряжение"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/cassowary",
+                            "title": "Казуар"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/Up1",
+                            "title": "Апгрейд 1"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/Up2",
+                            "title": "Апгрейд 2"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/Up3",
+                            "title": "Апгрейд 3"
                         }
                     ],
                     "slug": "sys/tasks",
