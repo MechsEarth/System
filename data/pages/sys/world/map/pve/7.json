@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nЧерви\n![w=480 h=480](worlds/7/map)\n",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/pve",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Начальные"
     ],
-    "slug": "sys/world/map/7",
+    "slug": "sys/world/map/pve/7",
     "tagSlugs": [
         "sys"
     ],

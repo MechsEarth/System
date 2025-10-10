@@ -138,19 +138,50 @@
                         {
                             "childrenSlugs": [
                                 {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/1",
-                                    "title": "База новобранцев"
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/pve/1",
+                                            "title": "База новобранцев"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/pve/2",
+                                            "title": "База ОПОРА"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/pve/3",
+                                            "title": "Полигон"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/pve/5",
+                                            "title": "База ТРЕБА"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/pve/7",
+                                            "title": "Черви"
+                                        }
+                                    ],
+                                    "slug": "sys/world/map/pve",
+                                    "title": "Начальные"
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/2",
-                                    "title": "База  ОПОРА"
+                                    "slug": "sys/world/map/common",
+                                    "title": "Общие"
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/3",
-                                    "title": "Полигон"
+                                    "slug": "sys/world/map/fight",
+                                    "title": "Боевые"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/world/map/neutral",
+                                    "title": "Нейтральные"
                                 },
                                 {
                                     "childrenSlugs": [],
@@ -159,18 +190,8 @@
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/5",
-                                    "title": "База ТРЕБА"
-                                },
-                                {
-                                    "childrenSlugs": [],
                                     "slug": "sys/world/map/6",
                                     "title": "База КРАДА"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/7",
-                                    "title": "Черви"
                                 },
                                 {
                                     "childrenSlugs": [],
@@ -365,7 +386,7 @@
                                 {
                                     "childrenSlugs": [],
                                     "slug": "sys/world/map/46",
-                                    "title": " Ядовитые земли"
+                                    "title": "Ядовитые земли"
                                 },
                                 {
                                     "childrenSlugs": [],

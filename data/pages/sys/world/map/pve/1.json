@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nНачальная локация игры, куда прибывают новобранцы, пережившие крушение.\n\n![w=480 h=480](worlds/1/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/pve",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Начальные"
     ],
-    "slug": "sys/world/map/1",
+    "slug": "sys/world/map/pve/1",
     "tagSlugs": [],
     "title": "База новобранцев"
 }

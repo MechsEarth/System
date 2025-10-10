@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nКарта ПОЛИГОН\n![w=480 h=480](worlds/3/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/pve",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Начальные"
     ],
-    "slug": "sys/world/map/3",
+    "slug": "sys/world/map/pve/3",
     "tagSlugs": [
         "sys"
     ],

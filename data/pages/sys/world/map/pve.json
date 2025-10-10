@@ -1,0 +1,19 @@
+{
+    "childrenSlugs": [
+        "sys/world/map/pve/1",
+        "sys/world/map/pve/2",
+        "sys/world/map/pve/3",
+        "sys/world/map/pve/5",
+        "sys/world/map/pve/7"
+    ],
+    "markdownContent": "",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/pve",
+    "tagSlugs": [],
+    "title": "Начальные"
+}
