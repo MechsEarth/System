@@ -4,8 +4,8 @@
 Формируется при внесении изменений в систему.
 [Присоединиться к ядру.](/sys/about/join)
 
-Exziz
 AlexSystems
+Exziz
 CAPAH4A
 ZVUM
 Xaki
