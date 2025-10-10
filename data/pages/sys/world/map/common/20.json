@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Вулканы Лирого\n![w=480 h=480](worlds/20/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/20",
+    "slug": "sys/world/map/common/20",
     "tagSlugs": [
         "sys"
     ],

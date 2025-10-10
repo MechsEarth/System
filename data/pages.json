@@ -169,7 +169,88 @@
                                     "title": "Начальные"
                                 },
                                 {
-                                    "childrenSlugs": [],
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/4",
+                                            "title": "Каторга"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/6",
+                                            "title": "База КРАДА"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/8",
+                                            "title": "Центральное укрепление"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/9",
+                                            "title": "Залежи железной руды"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/10",
+                                            "title": "База кротов"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/11",
+                                            "title": "Лабиринт"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/15",
+                                            "title": "Источник энергии"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/16",
+                                            "title": "Крушение"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/17",
+                                            "title": "Логово Теридиона"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/18",
+                                            "title": "Отравленные земли Ройтука"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/19",
+                                            "title": "Отстойник кислот"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/20",
+                                            "title": "Вулканы Лирого"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/27",
+                                            "title": "Газовые пещеры"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/29",
+                                            "title": "Крушение"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/32",
+                                            "title": "Спуск в земли Крады"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/common/33",
+                                            "title": "База новобранцев"
+                                        }
+                                    ],
                                     "slug": "sys/world/map/common",
                                     "title": "Общие"
                                 },
@@ -287,36 +368,6 @@
                                 },
                                 {
                                     "childrenSlugs": [],
-                                    "slug": "sys/world/map/4",
-                                    "title": "Каторга"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/6",
-                                    "title": "База КРАДА"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/8",
-                                    "title": "Центральное укрепление"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/9",
-                                    "title": "Залежи железной руды"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/10",
-                                    "title": "База кротов"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/11",
-                                    "title": "Лабиринт"
-                                },
-                                {
-                                    "childrenSlugs": [],
                                     "slug": "sys/world/map/12",
                                     "title": "Неизвестный мир"
                                 },
@@ -329,56 +380,6 @@
                                     "childrenSlugs": [],
                                     "slug": "sys/world/map/14",
                                     "title": "Испытания #2"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/15",
-                                    "title": "Источник энергии"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/16",
-                                    "title": "Крушение"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/17",
-                                    "title": "Логово Теридиона"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/18",
-                                    "title": "Отравленные земли Ройтука"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/19",
-                                    "title": "Отстойник кислот"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/20",
-                                    "title": "Вулканы Лирого"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/27",
-                                    "title": "Газовые пещеры"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/29",
-                                    "title": "Крушение"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/32",
-                                    "title": "Спуск в земли Крады"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/33",
-                                    "title": "База новобранцев"
                                 },
                                 {
                                     "childrenSlugs": [],

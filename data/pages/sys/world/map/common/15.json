@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nИсточник энергии\n![w=480 h=480](worlds/15/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/15",
+    "slug": "sys/world/map/common/15",
     "tagSlugs": [
         "sys"
     ],

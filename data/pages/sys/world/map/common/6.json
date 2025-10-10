@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nБаза КРАДА\n![w=480 h=480](worlds/6/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/6",
+    "slug": "sys/world/map/common/6",
     "tagSlugs": [
         "sys"
     ],

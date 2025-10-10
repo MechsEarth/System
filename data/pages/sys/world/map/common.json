@@ -1,5 +1,22 @@
 {
-    "childrenSlugs": [],
+    "childrenSlugs": [
+        "sys/world/map/common/4",
+        "sys/world/map/common/6",
+        "sys/world/map/common/8",
+        "sys/world/map/common/9",
+        "sys/world/map/common/10",
+        "sys/world/map/common/11",
+        "sys/world/map/common/15",
+        "sys/world/map/common/16",
+        "sys/world/map/common/17",
+        "sys/world/map/common/18",
+        "sys/world/map/common/19",
+        "sys/world/map/common/20",
+        "sys/world/map/common/27",
+        "sys/world/map/common/29",
+        "sys/world/map/common/32",
+        "sys/world/map/common/33"
+    ],
     "markdownContent": "",
     "parentSlug": "sys/world/map",
     "parentTitles": [

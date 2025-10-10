@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Крушение\n![w=480 h=480](worlds/16/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/29",
+    "slug": "sys/world/map/common/29",
     "tagSlugs": [
         "sys"
     ],

@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Спуск в земли Крады\n![w=480 h=480](worlds/14/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/32",
+    "slug": "sys/world/map/common/32",
     "tagSlugs": [
         "sys"
     ],

@@ -7,10 +7,10 @@
 [Черви](/sys/world/map/pve/7)
 
 Общие.
-[База Каторга](/sys/world/map/4)
-[База КРАДА](/sys/world/map/6)
-[Центральное укрепление](/sys/world/map/8)(ЦУ)
-[Залежи железной руды](/sys/world/map/9)(Железка)
+[База Каторга](/sys/world/map/common/4)
+[База КРАДА](/sys/world/map/common/6)
+[Центральное укрепление](/sys/world/map/common/8)(ЦУ)
+[Залежи железной руды](/sys/world/map/common/9)(Железка)
 [База кротов](/sys/world/map/pve/10)(БК)
 [Лабиринт](/sys/world/map/pve/11)(Лаба)
 [Источник энергии](/sys/world/map/pve/15)(Исток)
@@ -19,6 +19,7 @@
 [Отравленные земли Ройтука](/sys/world/map/pve/18)
 [Отстойник кислот](/sys/world/map/pve/19)
 [Вулканы Лирого](/sys/world/map/pve/20)
+[База новобранцев](/sys/world/map/common/33)(Старая)
 
 Боевые.
 [Заводы по переработке](/sys/world/map/pve/21)

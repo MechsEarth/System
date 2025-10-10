@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Логово Теридиона\n![w=480 h=480](worlds/17/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/17",
+    "slug": "sys/world/map/common/17",
     "tagSlugs": [
         "sys"
     ],

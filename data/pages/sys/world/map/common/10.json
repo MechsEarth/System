@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "# Описание  \nБаза кротов\n![w=480 h=480](worlds/10/map)\n",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Общие"
     ],
-    "slug": "sys/world/map/10",
+    "slug": "sys/world/map/common/10",
     "tagSlugs": [
         "sys"
     ],
