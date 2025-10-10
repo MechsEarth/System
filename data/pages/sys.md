@@ -2,7 +2,7 @@
  
 Основные разделы.
 [table]
-[АККАУНТ](/sys/account)|Персонаж|[Задания](/sys/tasks)|Существа
+[АККАУНТ](/sys/account)|[Персонаж](/sys/character)|[Задания](/sys/tasks)|[Существа](/sys/entity)
 [Экономика](/sys/economy)|[Предметы](/sys/items)|[Роботы](/sys/robots)|Модификация
 
 [Управление](/sys/control)|[Мир](/sys/world)|[Кланы](/sys/clan)|[Гайды](/sys/guide)
