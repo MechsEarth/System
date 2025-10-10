@@ -1,6 +1,6 @@
 {
     "childrenSlugs": [],
-    "markdownContent": "Ошибка: не удалось загрузить страницу",
+    "markdownContent": "# Описание  \nБаза ОПОРА\n![w=480 h=480](worlds/2/map)",
     "parentSlug": "sys/world/map/pve",
     "parentTitles": [
         "ЕСИ",

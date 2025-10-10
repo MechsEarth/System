@@ -1,6 +1,6 @@
 {
     "childrenSlugs": [],
-    "markdownContent": "База новобранцев\n![w=480 h=480](world/empty)",
+    "markdownContent": "База новобранцев\n![w=480 h=480](worlds/1/map)",
     "parentSlug": "sys/world/map/common",
     "parentTitles": [
         "ЕСИ",

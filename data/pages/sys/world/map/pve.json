@@ -6,7 +6,7 @@
         "sys/world/map/pve/5",
         "sys/world/map/pve/7"
     ],
-    "markdownContent": "",
+    "markdownContent": "# Схематично связи.\n![w=470 h=293 y=-10](img/sys/world/map/common.jpg)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",
