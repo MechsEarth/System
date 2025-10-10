@@ -4,6 +4,7 @@
 Формируется при внесении изменений в систему.
 [Присоединиться к ядру.](/sys/about/join)
 
+Robik250
 AlexSystems
 Exziz
 CAPAH4A
