@@ -11,7 +11,7 @@
         "sys/world/map/neutral/48",
         "sys/world/map/neutral/49"
     ],
-    "markdownContent": "",
+    "markdownContent": "# Схематично связи.\n![w=470 h=251 y=-10](img/sys/world/map/neutral.jpg)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",

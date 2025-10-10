@@ -11,7 +11,7 @@
         "sys/world/map/fight/31",
         "sys/world/map/fight/50"
     ],
-    "markdownContent": "",
+    "markdownContent": "# Схематично связи.\n![w=470 h=235 y=-10](img/sys/world/map/fight.jpg)\nНиже путь к локации: [Заводы по переработке](/sys/world/map/fight/21).\n\n![w=470 h=255](img/sys/world/map/common2.jpg)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",
