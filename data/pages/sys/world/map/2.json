@@ -1,0 +1,13 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nКарта База ОПОРА\n![w=480 h=480](worlds/2/map)\n",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/2",
+    "tagSlugs": [],
+    "title": "База  ОПОРА"
+}

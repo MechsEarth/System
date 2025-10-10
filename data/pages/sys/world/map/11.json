@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nЛабиринт\n![w=480 h=480](worlds/11/map)",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/11",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Лабиринт"
+}

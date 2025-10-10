@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "# Описание  \nИспытания #2\n![w=480 h=480](worlds/14/map)",
+    "parentSlug": "sys/world/map",
+    "parentTitles": [
+        "ЕСИ",
+        "Мир",
+        "Карты"
+    ],
+    "slug": "sys/world/map/14",
+    "tagSlugs": [
+        "sys"
+    ],
+    "title": "Испытания #2"
+}
