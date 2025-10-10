@@ -8,11 +8,11 @@
         "sys/tasks/find-the-artifacts",
         "sys/tasks/study-the-equipment",
         "sys/tasks/cassowary",
-        "sys/tasks/Up1",
-        "sys/tasks/Up2",
-        "sys/tasks/Up3"
+        "sys/tasks/up1",
+        "sys/tasks/up2",
+        "sys/tasks/up3"
     ],
-    "markdownContent": "Данный раздел представляет собой полный каталог заданий и наград, доступных в игровом мире. Здесь содержится информация о каждом типе квеста.\n\n# Обучающие\n[table]\n[Крушение](/sys/tasks/the-crash)\n[Найди артефакты](/sys/tasks/find-the-artifacts)\n[Изучи снаряжение](/sys/tasks/study-the-equipment)\n[/table]\n# Основные\n[table]\n[Зачистка монстров](/sys/tasks/destroy-monsters)\n[Зачистка боссов](/sys/tasks/destroy-bosses)\n[Лут](/sys/tasks/loot)\n[Апгрейд 1](/sys/tasks/Up1)\n[Апгрейд 2](/sys/tasks/Up2)\n[Апгрейд 3](/sys/tasks/Up3)\nАпгрейд 4\nАпгрейд 5\nАпгрейд 6\nАпгрейд 7\n[/table]\n# Крафт\n[table]\n[Казуар](/sys/tasks/cassowary)\n[Филин](/sys/tasks/filin)\n[/table]\n# Рейды\n[table]\nТерид\nВурый\nЛирый\nРойтук\nТеридион\nСат\n[/table]\n# Испытания\n[table]\nНайди Тери#1\nНайди Тери #2\nНайди Псов\nКАРАКУРТ\nХозяин\nВыносливость #1\nПираты\nЗабег РЫЙ\nЗащитник\n[/table]\n# Охотник\n[table]\nОхотник на охотника\nТерид\nВурый\nЛирый\nРойтук\nТеридион\nСат\n[/table]\n# Другие\n[table]\nУничтожение врагов\nЗахват ЦУ\n[/table]\n# Сезонные\n[table]\nРейд Мор\nНовогодний Снеговик\nХэллоуинские призраки\nПрятки на хэллоуин\nПрятки втроем\nСафари\nТанк\n[/table]",
+    "markdownContent": "Данный раздел представляет собой полный каталог заданий и наград, доступных в игровом мире. Здесь содержится информация о каждом типе квеста.\n\n# Обучающие\n[table]\n[Крушение](/sys/tasks/the-crash)\n[Найди артефакты](/sys/tasks/find-the-artifacts)\n[Изучи снаряжение](/sys/tasks/study-the-equipment)\n[/table]\n# Основные\n[table]\n[Зачистка монстров](/sys/tasks/destroy-monsters)\n[Зачистка боссов](/sys/tasks/destroy-bosses)\n[Лут](/sys/tasks/loot)\n[Апгрейд 1](/sys/tasks/up1)\n[Апгрейд 2](/sys/tasks/up2)\n[Апгрейд 3](/sys/tasks/up3)\nАпгрейд 4\nАпгрейд 5\nАпгрейд 6\nАпгрейд 7\n[/table]\n# Крафт\n[table]\n[Казуар](/sys/tasks/cassowary)\n[Филин](/sys/tasks/filin)\n[/table]\n# Рейды\n[table]\nТерид\nВурый\nЛирый\nРойтук\nТеридион\nСат\n[/table]\n# Испытания\n[table]\nНайди Тери#1\nНайди Тери #2\nНайди Псов\nКАРАКУРТ\nХозяин\nВыносливость #1\nПираты\nЗабег РЫЙ\nЗащитник\n[/table]\n# Охотник\n[table]\nОхотник на охотника\nТерид\nВурый\nЛирый\nРойтук\nТеридион\nСат\n[/table]\n# Другие\n[table]\nУничтожение врагов\nЗахват ЦУ\n[/table]\n# Сезонные\n[table]\nРейд Мор\nНовогодний Снеговик\nХэллоуинские призраки\nПрятки на хэллоуин\nПрятки втроем\nСафари\nТанк\n[/table]",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"

@@ -94,17 +94,17 @@
                         },
                         {
                             "childrenSlugs": [],
-                            "slug": "sys/tasks/Up1",
+                            "slug": "sys/tasks/up1",
                             "title": "Апгрейд 1"
                         },
                         {
                             "childrenSlugs": [],
-                            "slug": "sys/tasks/Up2",
+                            "slug": "sys/tasks/up2",
                             "title": "Апгрейд 2"
                         },
                         {
                             "childrenSlugs": [],
-                            "slug": "sys/tasks/Up3",
+                            "slug": "sys/tasks/up3",
                             "title": "Апгрейд 3"
                         }
                     ],

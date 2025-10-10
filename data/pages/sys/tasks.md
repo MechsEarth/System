@@ -11,9 +11,9 @@
 [Зачистка монстров](/sys/tasks/destroy-monsters)
 [Зачистка боссов](/sys/tasks/destroy-bosses)
 [Лут](/sys/tasks/loot)
-[Апгрейд 1](/sys/tasks/Up1)
-[Апгрейд 2](/sys/tasks/Up2)
-[Апгрейд 3](/sys/tasks/Up3)
+[Апгрейд 1](/sys/tasks/up1)
+[Апгрейд 2](/sys/tasks/up2)
+[Апгрейд 3](/sys/tasks/up3)
 Апгрейд 4
 Апгрейд 5
 Апгрейд 6
