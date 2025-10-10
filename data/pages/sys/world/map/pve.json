@@ -6,7 +6,7 @@
         "sys/world/map/pve/5",
         "sys/world/map/pve/7"
     ],
-    "markdownContent": "# Схематично связи.\n![w=470 h=293 y=-10](img/sys/world/map/common.jpg)",
+    "markdownContent": "# Схематично связи.\n![w=470 h=293 y=-10](img/sys/world/map/common.jpg)\n\nСписок:\n[База новобранцев](/sys/world/map/pve/1)\n[База ОПОРА](/sys/world/map/pve/2)\n[База ПОЛИГОН](/sys/world/map/pve/3)\n[База ТРЕБА](/sys/world/map/pve/5)\n[Черви](/sys/world/map/pve/7)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",

@@ -11,7 +11,7 @@
         "sys/world/map/fight/31",
         "sys/world/map/fight/50"
     ],
-    "markdownContent": "# Схематично связи.\n![w=470 h=235 y=-10](img/sys/world/map/fight.jpg)\nНиже путь к локации: [Заводы по переработке](/sys/world/map/fight/21).\n\n![w=470 h=255](img/sys/world/map/common2.jpg)",
+    "markdownContent": "# Схематично связи.\n![w=470 h=235 y=-10](img/sys/world/map/fight.jpg)\nНиже путь к локации: [Заводы по переработке](/sys/world/map/fight/21).\n\n![w=470 h=255](img/sys/world/map/common2.jpg)\n\nСписок:\n[Заводы по переработке](/sys/world/map/fight/21)\n[Переработка поллуцита](/sys/world/map/fight/22)\n[Заброшенный центр связи](/sys/world/map/fight/23)\n[Земли Опоры](/sys/world/map/fight/24)(Опора 2)\n[Земли Требы](/sys/world/map/fight/25)(Треба 2)\n[Земли Крады](/sys/world/map/fight/26)(Крада 2)\n[Ядовитые отходы](/sys/world/map/fight/28)\n[Завод добычи магмы](/sys/world/map/fight/30)\n[Заводы по прокачке](/sys/world/map/fight/31)\n[Усиленная база кротов](/sys/world/map/fight/50)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",

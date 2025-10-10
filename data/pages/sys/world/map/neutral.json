@@ -11,7 +11,7 @@
         "sys/world/map/neutral/48",
         "sys/world/map/neutral/49"
     ],
-    "markdownContent": "# Схематично связи.\n![w=470 h=251 y=-10](img/sys/world/map/neutral.jpg)",
+    "markdownContent": "# Схематично связи.\n![w=470 h=251 y=-10](img/sys/world/map/neutral.jpg)\n\nСписок:\n[Подъем к магме](/sys/world/map/neutral/40)\n[Отстойник кислот](/sys/world/map/neutral/41)\n[Норы Тери](/sys/world/map/neutral/42)\n[Крушение](/sys/world/map/neutral/43)\n[Добыча магмы](/sys/world/map/neutral/44)\n[Прокачка робота](/sys/world/map/neutral/45)\n[Ядовитые земли](/sys/world/map/neutral/46)\n[Заброшенный центр связи](/sys/world/map/neutral/47)\n[Переработка поллуцита](/sys/world/map/neutral/48)\n[Земли Опоры](/sys/world/map/neutral/49)\nОткрыть [схему расположения.](/sys/world/map/neutral)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",

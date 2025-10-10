@@ -17,7 +17,7 @@
         "sys/world/map/common/32",
         "sys/world/map/common/33"
     ],
-    "markdownContent": "# Схематично связи.\n![w=470 h=293 y=-10](img/sys/world/map/common.jpg)\nНиже путь к боевой локации: [Заводы по переработке](/sys/world/map/fight/21).\n\n![w=470 h=255](img/sys/world/map/common2.jpg)",
+    "markdownContent": "# Схематично связи.\n![w=470 h=293 y=-10](img/sys/world/map/common.jpg)\nНиже путь к боевой локации: [Заводы по переработке](/sys/world/map/fight/21).\n\n![w=470 h=255](img/sys/world/map/common2.jpg)\n\nСписок:\n[База Каторга](/sys/world/map/common/4)\n[База КРАДА](/sys/world/map/common/6)\n[Центральное укрепление](/sys/world/map/common/8)(ЦУ)\n[Залежи железной руды](/sys/world/map/common/9)(Железка)\n[База кротов](/sys/world/map/common/10)(БК)\n[Лабиринт](/sys/world/map/common/11)(Лаба)\n[Источник энергии](/sys/world/map/common/15)(Исток)\n[Крушение](/sys/world/map/common/16)\n[Логово Теридиона](/sys/world/map/common/17)\n[Отравленные земли Ройтука](/sys/world/map/common/18)\n[Отстойник кислот](/sys/world/map/common/19)\n[Вулканы Лирого](/sys/world/map/common/20)\n[База новобранцев](/sys/world/map/common/33)(Старая)\nОткрыть [схему расположения.](/sys/world/map/common)",
     "parentSlug": "sys/world/map",
     "parentTitles": [
         "ЕСИ",

@@ -20,7 +20,7 @@
 [Отстойник кислот](/sys/world/map/common/19)
 [Вулканы Лирого](/sys/world/map/common/20)
 [База новобранцев](/sys/world/map/common/33)(Старая)
-Открыть [схему расположения.](/sys/world/map/common))
+Открыть [схему расположения.](/sys/world/map/common)
 
 Боевые.
 [Заводы по переработке](/sys/world/map/fight/21)
