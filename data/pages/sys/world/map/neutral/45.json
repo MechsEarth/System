@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Прокачка робота\n![w=480 h=480](worlds/13/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/neutral",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Нейтральные"
     ],
-    "slug": "sys/world/map/45",
+    "slug": "sys/world/map/neutral/45",
     "tagSlugs": [
         "sys"
     ],

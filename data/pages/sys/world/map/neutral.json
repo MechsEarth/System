@@ -1,5 +1,16 @@
 {
-    "childrenSlugs": [],
+    "childrenSlugs": [
+        "sys/world/map/neutral/40",
+        "sys/world/map/neutral/41",
+        "sys/world/map/neutral/42",
+        "sys/world/map/neutral/43",
+        "sys/world/map/neutral/44",
+        "sys/world/map/neutral/45",
+        "sys/world/map/neutral/46",
+        "sys/world/map/neutral/47",
+        "sys/world/map/neutral/48",
+        "sys/world/map/neutral/49"
+    ],
     "markdownContent": "",
     "parentSlug": "sys/world/map",
     "parentTitles": [

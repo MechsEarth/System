@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "аброшенный центр связи\n![w=480 h=480](worlds/21/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/neutral",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Нейтральные"
     ],
-    "slug": "sys/world/map/48",
+    "slug": "sys/world/map/neutral/48",
     "tagSlugs": [
         "sys"
     ],

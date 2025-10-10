@@ -1,13 +1,14 @@
 {
     "childrenSlugs": [],
     "markdownContent": "Подъем к магме\n![w=480 h=480](worlds/17/map)",
-    "parentSlug": "sys/world/map",
+    "parentSlug": "sys/world/map/neutral",
     "parentTitles": [
         "ЕСИ",
         "Мир",
-        "Карты"
+        "Карты",
+        "Нейтральные"
     ],
-    "slug": "sys/world/map/42",
+    "slug": "sys/world/map/neutral/42",
     "tagSlugs": [
         "sys"
     ],

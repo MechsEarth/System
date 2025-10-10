@@ -179,7 +179,58 @@
                                     "title": "Боевые"
                                 },
                                 {
-                                    "childrenSlugs": [],
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/40",
+                                            "title": "Подъем к магме"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/41",
+                                            "title": "Отстойник кислот"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/42",
+                                            "title": "Норы Тери"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/43",
+                                            "title": "Крушение"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/44",
+                                            "title": "Добыча магмы"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/45",
+                                            "title": "Прокачка робота"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/46",
+                                            "title": "Ядовитые земли"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/47",
+                                            "title": "Заброшенный центр связи"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/48",
+                                            "title": "Переработка поллуцита"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/world/map/neutral/49",
+                                            "title": "Земли Опоры"
+                                        }
+                                    ],
                                     "slug": "sys/world/map/neutral",
                                     "title": "Нейтральные"
                                 },
@@ -352,56 +403,6 @@
                                     "childrenSlugs": [],
                                     "slug": "sys/world/map/39",
                                     "title": "База испытаний"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/40",
-                                    "title": "Подъем к магме"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/41",
-                                    "title": "Отстойник кислот"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/42",
-                                    "title": "Норы Тери"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/43",
-                                    "title": "Крушение"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/44",
-                                    "title": "Добыча магмы"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/45",
-                                    "title": "Прокачка робота"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/46",
-                                    "title": "Ядовитые земли"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/47",
-                                    "title": "Заброшенный центр связи"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/48",
-                                    "title": "Переработка поллуцита"
-                                },
-                                {
-                                    "childrenSlugs": [],
-                                    "slug": "sys/world/map/49",
-                                    "title": "Земли Опоры"
                                 },
                                 {
                                     "childrenSlugs": [],
