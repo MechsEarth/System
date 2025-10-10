@@ -2,12 +2,12 @@
 Начальные со спец условиями атаки между игроками.
 [База новобранцев](/sys/world/map/pve/1)
 [База ОПОРА](/sys/world/map/pve/2)
-[База ПОЛИГОН](/sys/world/map/pve/3)
+[Полигон](/sys/world/map/pve/3)
 [База ТРЕБА](/sys/world/map/pve/5)
 [Черви](/sys/world/map/pve/7)
 
 Общие.
-[База Каторга](/sys/world/map/common/4)
+[Каторга](/sys/world/map/common/4)
 [База КРАДА](/sys/world/map/common/6)
 [Центральное укрепление](/sys/world/map/common/8)(ЦУ)
 [Залежи железной руды](/sys/world/map/common/9)(Железка)

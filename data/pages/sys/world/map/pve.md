@@ -4,6 +4,6 @@
 Список:
 [База новобранцев](/sys/world/map/pve/1)
 [База ОПОРА](/sys/world/map/pve/2)
-[База ПОЛИГОН](/sys/world/map/pve/3)
+[Полигон](/sys/world/map/pve/3)
 [База ТРЕБА](/sys/world/map/pve/5)
 [Черви](/sys/world/map/pve/7)
