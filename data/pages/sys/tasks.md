@@ -14,10 +14,10 @@
 [Апгрейд 1](/sys/tasks/up1)
 [Апгрейд 2](/sys/tasks/up2)
 [Апгрейд 3](/sys/tasks/up3)
-Апгрейд 4
-Апгрейд 5
-Апгрейд 6
-Апгрейд 7
+[Апгрейд 4](/sys/tasks/up4)
+[Апгрейд 5](/sys/tasks/up5)
+[Апгрейд 6](/sys/tasks/up6)
+[Апгрейд 7](/sys/tasks/up7)
 [/table]
 # Крафт
 [table]
