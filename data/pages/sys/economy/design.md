@@ -6,7 +6,7 @@
 ➖ Комплектующие  
 ➖ [Роботы](/sys/economy/design/robots)  
 ➖ [Паки](/sys/economy/design/packages)  
-➖ Апгрейды  
+➖ [Апгрейды](/sys/economy/design/upgrades)  
 ➖ Телепортаторы
 
 Существует несколько уровней чертежей.
