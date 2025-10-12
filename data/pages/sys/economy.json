@@ -1,8 +1,9 @@
 {
     "childrenSlugs": [
-        "sys/economy/design"
+        "sys/economy/design",
+        "sys/economy/upgrades"
     ],
-    "markdownContent": "[Чертежи](/sys/economy/design)",
+    "markdownContent": "[Чертежи](/sys/economy/design)\n[Апгрейды](/sys/economy/upgrades)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
