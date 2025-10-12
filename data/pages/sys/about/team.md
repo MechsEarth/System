@@ -5,8 +5,8 @@
 [Присоединиться к ядру.](/sys/about/join)
 
 Robik250
-AlexSystems
 Exziz
+AlexSystems
 CAPAH4A
 ZVUM
 Xaki
