@@ -1,0 +1,24 @@
+{
+    "childrenSlugs": [
+        "sys/economy/design/upgrades/up1-plan",
+        "sys/economy/design/upgrades/up2-plan",
+        "sys/economy/design/upgrades/up3-plan",
+        "sys/economy/design/upgrades/up4-plan",
+        "sys/economy/design/upgrades/up5-plan",
+        "sys/economy/design/upgrades/up6-plan",
+        "sys/economy/design/upgrades/up7-plan",
+        "sys/economy/design/upgrades/up7-m2"
+    ],
+    "markdownContent": "# Чертежи для изготовления апгрейдов\n\n[Апгрейд 1](/sys/economy/design/upgrades/up1-plan)\n[Апгрейд 2](/sys/economy/design/upgrades/up2-plan)\n[Апгрейд 3](/sys/economy/design/upgrades/up3-plan)\n[Апгрейд 4](/sys/economy/design/upgrades/up4-plan)\n[Апгрейд 5](/sys/economy/design/upgrades/up5-plan)\n[Апгрейд 6](/sys/economy/design/upgrades/up6-plan)\n[Апгрейд 7](/sys/economy/design/upgrades/up7-plan)\n[Апгрейд 7 м2](/sys/economy/design/upgrades/up7-m2)",
+    "parentSlug": "sys/economy/design",
+    "parentTitles": [
+        "ЕСИ",
+        "Экономика",
+        "Чертежи"
+    ],
+    "slug": "sys/economy/design/upgrades",
+    "tagSlugs": [
+        "wiki"
+    ],
+    "title": "Апгрейды"
+}
