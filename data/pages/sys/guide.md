@@ -5,4 +5,4 @@
 ➖ [Рейды, Охотник](/sys/guide/raids-hunter)
 ➖ [Чат команды](/sys/guide/chat-commands)
 ➖ [Бонусы от наций](/sys/guide/nations)
-➖ [Карты и их коэффициенты опыта](/sys/guide/exp)
+➖ [Коэффициенты опыта](/sys/guide/exp)

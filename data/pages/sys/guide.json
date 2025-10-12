@@ -8,7 +8,7 @@
         "sys/guide/type-fighter",
         "sys/guide/exp"
     ],
-    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Как выбрать робота для бойца?](/sys/guide/type-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Криминальный статус персонажа](/sys/guide/status)\n➖ [Рейды, Охотник](/sys/guide/raids-hunter)\n➖ [Чат команды](/sys/guide/chat-commands)\n➖ [Бонусы от наций](/sys/guide/nations)\n➖ [Карты и их коэффициенты опыта](/sys/guide/exp)",
+    "markdownContent": "## Собраны различные дополнительные обучающие материалы.\n➖ [Как выбрать робота для бойца?](/sys/guide/type-fighter)\n➖ [Основные квесты](/sys/guide/main-quest)\n➖ [Криминальный статус персонажа](/sys/guide/status)\n➖ [Рейды, Охотник](/sys/guide/raids-hunter)\n➖ [Чат команды](/sys/guide/chat-commands)\n➖ [Бонусы от наций](/sys/guide/nations)\n➖ [Коэффициенты опыта](/sys/guide/exp)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
