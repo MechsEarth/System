@@ -1,3 +1,4 @@
+Все делаю в браузерной версии
 {
     "pages": [
         {
@@ -106,6 +107,26 @@
                             "childrenSlugs": [],
                             "slug": "sys/tasks/up3",
                             "title": "Апгрейд 3"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/up4",
+                            "title": "Апгрейд 4"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/up5",
+                            "title": "Апгрейд 5"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/up6",
+                            "title": "Апгрейд 6"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/tasks/up7",
+                            "title": "Апгрейд 7"
                         }
                     ],
                     "slug": "sys/tasks",
@@ -231,10 +252,102 @@
                                     ],
                                     "slug": "sys/economy/design/robots",
                                     "title": "Роботы"
+                                },
+                                {
+                                    "childrenSlugs": [
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up1-plan",
+                                            "title": "Апгрейд 1"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up2-plan",
+                                            "title": "Апгрейд 2"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up3-plan",
+                                            "title": "Апгрейд 3"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up4-plan",
+                                            "title": "Апгрейд 4"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up5-plan",
+                                            "title": "Апгрейд 5"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up6-plan",
+                                            "title": "Апгрейд 6"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up7-plan",
+                                            "title": "Апгрейд 7"
+                                        },
+                                        {
+                                            "childrenSlugs": [],
+                                            "slug": "sys/economy/design/upgrades/up7-m2",
+                                            "title": "Апгрейд 7 м2"
+                                        }
+                                    ],
+                                    "slug": "sys/economy/design/upgrades",
+                                    "title": "Апгрейды"
                                 }
                             ],
                             "slug": "sys/economy/design",
                             "title": "Чертежи"
+                        },
+                        {
+                            "childrenSlugs": [
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up1",
+                                    "title": "Апгрейд 1"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up2",
+                                    "title": "Апгрейд 2"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up3",
+                                    "title": "Апгрейд 3"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up4",
+                                    "title": "Апгрейд 4"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up5",
+                                    "title": "Апгрейд 5"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up6",
+                                    "title": "Апгрейд 6"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up7",
+                                    "title": "Апгрейд 7"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/upgrades/up8",
+                                    "title": "Апгрейд 8"
+                                }
+                            ],
+                            "slug": "sys/economy/upgrades",
+                            "title": "Апгрейды"
                         }
                     ],
                     "slug": "sys/economy",

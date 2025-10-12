@@ -1,0 +1,16 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "![s=50 res=266 b=1]()![s=32 x=10 y=7 res=540]()\n## Чертеж Апгрейд 2\nИспользуется для крафта [Апгрейд 2](/sys/economy/upgrades/up2) ![s=50 res=540 y=-15]() \nДля создания потребуется:\n[table]\n*Предмет*|*Количество, шт.*\n![s=32 res=229]() Капюшон ВАРАНа|250\n![s=32 res=594]() Конденсатор|20\n![s=32 res=423]() Железо|5\n[/table]\n*Навык специалист*: 120\n*Боны*: 0\n*Износостойкость чертежа*: 1\n*Цена продажи*: 125.000 бон",
+    "parentSlug": "sys/economy/design/upgrades",
+    "parentTitles": [
+        "ЕСИ",
+        "Экономика",
+        "Чертежи",
+        "Апгрейды"
+    ],
+    "slug": "sys/economy/design/upgrades/up2-plan",
+    "tagSlugs": [
+        "wiki"
+    ],
+    "title": "Апгрейд 2"
+}
