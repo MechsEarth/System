@@ -627,6 +627,11 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/type-fighter",
                             "title": "Типы боевых роботов"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/guide/exp",
+                            "title": "Карты и их коэффициенты опыта"
                         }
                     ],
                     "slug": "sys/guide",
