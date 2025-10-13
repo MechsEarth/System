@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|15\nТип робота|Добытчик\nПрочность|11730\nВместимость|2000\nВместимость максимальная|3500\nСкорость|8.90\nСкорость MAX|19.58\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/807",
+    "tagSlugs": [],
+    "title": "БКМ первый"
+}

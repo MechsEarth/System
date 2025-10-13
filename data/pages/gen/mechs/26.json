@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|8\nТип робота|Добытчик\nПрочность|2655\nВместимость|1500\nВместимость максимальная|3000\nСкорость|8.90\nСкорость MAX|19.58\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/26",
+    "tagSlugs": [],
+    "title": "БУРОВОЙ первый"
+}

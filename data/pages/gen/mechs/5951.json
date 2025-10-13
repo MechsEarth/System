@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nТип робота|Боец\nПрочность|3450\nВместимость|700\nСкорость|13.70\nСкорость MAX|30.14\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/5951",
+    "tagSlugs": [],
+    "title": "СТРИЖ спорт"
+}

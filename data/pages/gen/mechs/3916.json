@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|90\nТип робота|Боец\nПрочность|150000\nВместимость|2500\nСкорость|10.00\nСкорость MAX|22.00\nБроня|350\nПоля|350\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/3916",
+    "tagSlugs": [],
+    "title": "КРЕЧЕТ 90"
+}

@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|15\nТип робота|Транспортник\nПрочность|11730\nВместимость|2181\nВместимость максимальная|2700\nСкорость|11.40\nСкорость MAX|25.08\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/2644",
+    "tagSlugs": [],
+    "title": "ФАЭТОН 15"
+}

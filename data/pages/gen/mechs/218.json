@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|28\nТип робота|Транспортник\nПрочность|18000\nВместимость|5000\nВместимость максимальная|7000\nСкорость|9.60\nСкорость MAX|21.12\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/218",
+    "tagSlugs": [],
+    "title": "ТЯГАЧ 28"
+}

@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|90\nТип робота|Боец\nПрочность|300000\nВместимость|2000\nСкорость|9.60\nСкорость MAX|21.12\nБроня|300\nПоля|300\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/3917",
+    "tagSlugs": [],
+    "title": "ТИТАНИС 90"
+}

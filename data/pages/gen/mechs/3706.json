@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|70\nТип робота|Транспортник\nПрочность|46000\nВместимость|17500\nВместимость максимальная|23000\nСкорость|9.60\nСкорость MAX|21.12\nБроня|50\nПоля|50\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/3706",
+    "tagSlugs": [],
+    "title": "МУРАВЕЙ 70"
+}

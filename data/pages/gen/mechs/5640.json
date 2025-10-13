@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nТип робота|Боец\nПрочность|15000\nВместимость|440\nСкорость|11.40\nСкорость MAX|25.08\nБроня|4\nПоля|4\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/5640",
+    "tagSlugs": [],
+    "title": "САПСАН 1"
+}

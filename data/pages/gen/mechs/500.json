@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|35\nТип робота|Добытчик\nПрочность|20000\nВместимость|5000\nВместимость максимальная|7000\nСкорость|9.10\nСкорость MAX|20.02\nБроня|0\nПоля|0\nПроцент прокачки в реглах|100%\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/500",
+    "tagSlugs": [],
+    "title": "ШАХТЕР м"
+}

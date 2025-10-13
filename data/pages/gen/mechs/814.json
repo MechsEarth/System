@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|35\nТип робота|Боец\nПрочность|20000\nВместимость|762\nСкорость|11.40\nСкорость MAX|25.08\nБроня|34\nПоля|34\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/814",
+    "tagSlugs": [],
+    "title": "БЕРКУТ 35"
+}

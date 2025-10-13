@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|80\nТип робота|Боец\nПрочность|160000\nВместимость|1800\nСкорость|10.50\nСкорость MAX|23.10\nБроня|250\nПоля|250\nВосстановление в минуту|24000.00\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/4125",
+    "tagSlugs": [],
+    "title": "ДРОФ 80"
+}

@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|92\nТип робота|Боец\nПрочность|110000\nВместимость|1800\nСкорость|13.50\nСкорость MAX|29.70\nБроня|150\nПоля|150\nВосстановление в минуту|12000.00\nПроцент прокачки в реглах|100%\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/4126",
+    "tagSlugs": [],
+    "title": "САПСАН 92 м"
+}

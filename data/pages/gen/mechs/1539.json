@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|70\nТип робота|Боец\nПрочность|110000\nВместимость|1100\nСкорость|11.40\nСкорость MAX|25.08\nБроня|160\nПоля|160\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/1539",
+    "tagSlugs": [],
+    "title": "КОНДОР 70"
+}

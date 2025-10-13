@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|69\nТип робота|Боец\nПрочность|70000\nВместимость|1060\nСкорость|11.00\nСкорость MAX|24.20\nБроня|111\nПоля|111\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/2598",
+    "tagSlugs": [],
+    "title": "ОРЕЛ 69"
+}

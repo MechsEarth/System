@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|21\nТип робота|Транспортник\nПрочность|15750\nВместимость|4500\nВместимость максимальная|6500\nСкорость|10.50\nСкорость MAX|23.10\nБроня|0\nПоля|0\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/801",
+    "tagSlugs": [],
+    "title": "МАНАКИН 21"
+}

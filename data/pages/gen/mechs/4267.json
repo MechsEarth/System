@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|96\nТип робота|Боец\nПрочность|195000\nВместимость|2200\nСкорость|11.40\nСкорость MAX|25.08\nБроня|270\nПоля|270\nВосстановление в минуту|40000.00\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/4267",
+    "tagSlugs": [],
+    "title": "СКОП 96"
+}

@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|94\nТип робота|Боец\nПрочность|330000\nВместимость|2750\nСкорость|9.10\nСкорость MAX|20.02\nБроня|420\nПоля|420\nВосстановление в минуту|90000.00\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/4127",
+    "tagSlugs": [],
+    "title": "БУГАЙ 94"
+}

@@ -1,0 +1,11 @@
+{
+    "childrenSlugs": [
+        "gen/mechs"
+    ],
+    "markdownContent": "!! Автоматически генерируемые страницы.\n\n⛔⛔ НЕЛЬЗЯ МЕНЯТЬ ⛔⛔ конечные страницы раздела.\n\nВстраивайте в свои страницы через [include].\nДля удобства ПКМ>встроить страницу>gen",
+    "parentSlug": "",
+    "parentTitles": [],
+    "slug": "gen",
+    "tagSlugs": [],
+    "title": "gen"
+}

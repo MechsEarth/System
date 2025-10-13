@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|56\nТип робота|Боец\nПрочность|32000\nВместимость|960\nСкорость|11.40\nСкорость MAX|25.08\nБроня|75\nПоля|75\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/2575",
+    "tagSlugs": [],
+    "title": "ФИЛИН 56"
+}

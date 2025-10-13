@@ -1,0 +1,12 @@
+{
+    "childrenSlugs": [],
+    "markdownContent": "[table selectable=1]\nУровень персонажа|25\nТип робота|Боец\nПрочность|15000\nВместимость|619\nСкорость|12.30\nСкорость MAX|27.06\nБроня|22\nПоля|22\n[/table]\n",
+    "parentSlug": "gen/mechs",
+    "parentTitles": [
+        "gen",
+        "Роботы"
+    ],
+    "slug": "gen/mechs/805",
+    "tagSlugs": [],
+    "title": "САПСАН 25"
+}
