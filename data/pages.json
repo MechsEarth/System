@@ -222,6 +222,61 @@
                             "childrenSlugs": [],
                             "slug": "sys/entity/z-worm",
                             "title": "Червь зеркальный"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/dog",
+                            "title": "Пес"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/dog-big",
+                            "title": "Пес большой"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/bear",
+                            "title": "Медведь"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/bear-boss",
+                            "title": "Медведь босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/slepen",
+                            "title": "Слепень"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/slizen",
+                            "title": "Слизень"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/slizen-zer",
+                            "title": "Слизень зеркальный"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/osa",
+                            "title": "Оса"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/worm-boss",
+                            "title": "Червь босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/slepen-boss",
+                            "title": "Слепень босс"
+                        },
+                        {
+                            "childrenSlugs": [],
+                            "slug": "sys/entity/slizen-boss",
+                            "title": "Слизень босс"
                         }
                     ],
                     "slug": "sys/entity",
@@ -297,6 +352,11 @@
                                     ],
                                     "slug": "sys/economy/design/upgrades",
                                     "title": "Апгрейды"
+                                },
+                                {
+                                    "childrenSlugs": [],
+                                    "slug": "sys/economy/design/chips",
+                                    "title": "Чипы"
                                 }
                             ],
                             "slug": "sys/economy/design",
@@ -739,11 +799,6 @@
                             "childrenSlugs": [],
                             "slug": "sys/guide/type-fighter",
                             "title": "Типы боевых роботов"
-                        },
-                        {
-                            "childrenSlugs": [],
-                            "slug": "sys/guide/exp",
-                            "title": "Коэффициенты опыта"
                         }
                     ],
                     "slug": "sys/guide",

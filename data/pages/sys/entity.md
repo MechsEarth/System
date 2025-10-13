@@ -18,13 +18,13 @@
 [Червь](/sys/entity/worm)
 [Червь зеркальный](/sys/entity/z-worm)
 [Варан](/sys/entity/lizard)
-Пес
-Пес большой
-Медведь
-Слепень
-Слизень
-Слизень зеркальный
-Оса
+[Пес](/sys/entity/dog)
+[Пес большой](/sys/entity/dog-big)
+[Медведь](/sys/entity/bear)
+[Слепень](/sys/entity/slepen)
+[Слизень](/sys/entity/slizen)
+[Слизень зеркальный](/sys/entity/slizen-zer)
+[Оса](/sys/entity/osa)
 Тук желтый
 Тук синий
 Тери
@@ -48,11 +48,11 @@
 [Паук босс](/sys/entity/spider-boss)
 [Скорпион босс](/sys/entity/scorpio-boss)
 [Богомол босс](/sys/entity/mantis-boss)
-Червь босс
+[Червь босс](/sys/entity/worm-boss)
 [Варан босс](/sys/entity/lizard-boss)
-Медведь босс
-Слепень босс
-Слизень босс
+[Медведь босс](/sys/entity/bear-boss)
+[Слепень босс](/sys/entity/slepen-boss)
+[Слизень босс](/sys/entity/slizen-boss)
 Крот разрушитель
 Крот потрошитель босс
 Крот держатель босс
