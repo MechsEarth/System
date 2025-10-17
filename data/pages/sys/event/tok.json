@@ -2,9 +2,13 @@
     "childrenSlugs": [
         "sys/event/tok/newbie",
         "sys/event/tok/sergeant",
-        "sys/event/tok/middle"
+        "sys/event/tok/middle",
+        "sys/event/tok/top",
+        "sys/event/tok/master",
+        "sys/event/tok/footer",
+        "sys/event/tok/high"
     ],
-    "markdownContent": " # Турник ТОК БИТВ.\n![w=386 h=207 y=-10](img/sys/event/tok.jpg)\nКатегории:\n  * [Рядовой](/sys/event/tok/newbie)\n  * [Сержант](/sys/event/tok/sergeant)\n  * Старшина\n  * ТОП\n\n*ТОК* - Треба, Опора, Крада.",
+    "markdownContent": " # Турник ТОК БИТВ.\n![w=386 h=207 y=-10](img/sys/event/tok.jpg)\nКатегории:\n  * [Рядовой](/sys/event/tok/newbie)\n  * [Сержант](/sys/event/tok/sergeant)\n  * [Старшина](/sys/event/tok/master)\n  * [Топ](/sys/event/tok/top)\n\n*ТОК* - Треба, Опора, Крада.",
     "parentSlug": "sys/event",
     "parentTitles": [
         "ЕСИ",

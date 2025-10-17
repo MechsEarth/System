@@ -3,7 +3,7 @@
 Категории:
   * [Рядовой](/sys/event/tok/newbie)
   * [Сержант](/sys/event/tok/sergeant)
-  * Старшина
-  * ТОП
+  * [Старшина](/sys/event/tok/master)
+  * [Топ](/sys/event/tok/top)
 
 *ТОК* - Треба, Опора, Крада.
