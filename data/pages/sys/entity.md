@@ -25,8 +25,12 @@
 [Слизень](/sys/entity/slizen)
 [Слизень зеркальный](/sys/entity/slizen-zer)
 [Оса](/sys/entity/osa)
-Тук желтый
-Тук синий
+[Эцитон](/sys/entity/eziton)
+[Корикс](/sys/entity/coryx)
+[Каракурт](/sys/entity/karakurt)
+Пес огромный
+[Тук желтый](/sys/entity/tuk-yel)
+[Тук синий](/sys/entity/tuk-blu)
 Тери
 Рый
 Крот-потрошитель малый
@@ -40,6 +44,8 @@
 Пират Угс
 Пират Гип
 Пират Амф
+Беглый каторжник
+Яйцо тери
 [/table]
 
 # Боссы
