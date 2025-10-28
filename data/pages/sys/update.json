@@ -2,9 +2,9 @@
     "childrenSlugs": [
         "sys/update/4-0-88",
         "sys/update/4-0-90",
-        "sys/update/4-0-91"
+        "sys/update/4-0-90-esi"
     ],
-    "markdownContent": "# Список последних обновлений\n\n[Доработан ЕСИ браузер](/sys/update/4-0-91) от 9 октября.\n[4-0-90](/sys/update/4-0-90) от 7 октября.\n[4-0-88](/sys/update/4-0-88) от 1 октября.",
+    "markdownContent": "# Список последних обновлений\n\n[Доработан ЕСИ браузер](/sys/update/4-0-90-esi) от 9 октября.\n[4-0-90](/sys/update/4-0-90) от 7 октября.\n[4-0-88](/sys/update/4-0-88) от 1 октября.",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
