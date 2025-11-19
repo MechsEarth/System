@@ -1,8 +1,15 @@
 {
     "childrenSlugs": [
-        "sys/character/abilities"
+        "sys/character/abilities",
+        "sys/character/nickname",
+        "sys/character/psevdo",
+        "sys/character/level",
+        "sys/character/experience",
+        "sys/character/nation",
+        "sys/character/BExperience",
+        "sys/character/Status"
     ],
-    "markdownContent": "# Персонаж\nНовый персонаж создаётся в главном меню.\n\nМожно создать сколько угодно персонажей.\nПервые 4 — бесплатно. За каждого следующего — 50 реглов.\n![w=120 h=70](img/sys/character/new-per.png)\n\n# Данные персонажа\nОткрывается по нажатию на иконку человека под мини картой.\n![w=27 h=27](img/sys/character/stats-b.png)\nВ окне отображаются основные параметры:\n\n[table]\nНикнейм игрока\nПсевдоним персонажа\nУровень\nОпыт\nНация\nБоевой опыт\nСтатус\n[Боны](/sys/economy/bon)\n[Реглы](/sys/economy/regl)\nПремиум\n[Умения персонажа](/sys/character/abilities)\nУровни владения\n[/table]\n\nПример в игре:\n\n![w=220 h=400](img/sys/character/stats.png)",
+    "markdownContent": "# Персонаж\nНовый персонаж создаётся в главном меню.\n\nМожно создать сколько угодно персонажей.\nПервые 4 — бесплатно. За каждого следующего — 50 реглов.\n![w=120 h=70](img/sys/character/new-per.png)\n\n# Данные персонажа\nОткрывается по нажатию на иконку человека под мини картой.\n![s=32](ui/game/panel/heroparams)\n\nВ окне отображаются основные параметры:\n\n[table]\n[Никнейм игрока](/sys/character/nickname)\n[Псевдоним персонажа](/sys/character/psevdo)\n[Уровень](/sys/character/level)\n[Опыт](/sys/character/experience)\n[Нация](/sys/character/nation)\n[Боевой опыт](/sys/character/BExperience)\n[Статус](/sys/character/Status)\n[Боны](/sys/economy/bon)\n[Реглы](/sys/economy/regl)\nПремиум\n[Умения персонажа](/sys/character/abilities)\nУровни владения\n[/table]\n\nПример в игре:\n\n![w=220 h=400](img/sys/character/stats.png)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
