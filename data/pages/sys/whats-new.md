@@ -10,14 +10,14 @@ ___
 [Нация](/sys/character/nation)
 [Боевой опыт](/sys/character/BExperience)
 [Статус](/sys/character/Status)
+[Аукцион большой](https://new.mechs.su/shop/auction-big) 22 ноября в 20:00 МСК
 
-🆕025-11-19
+2025-11-19
 ___
 [Лут монстров](/sys/economy/monster)
 [Лут кротов](/sys/economy/krot)
 [Лут пиратов](/sys/economy/pirat)
 [Полезные ископаемые](/sys/economy/iskop)
-[Аукцион большой](https://new.mechs.su/shop/auction-big) 22 ноября в 20:00 МСК
 
 2025-10-18
 ___
