@@ -7,17 +7,18 @@
 
 # Данные персонажа
 Открывается по нажатию на иконку человека под мини картой.
-![w=27 h=27](img/sys/character/stats-b.png)
+![s=32](ui/game/panel/heroparams)
+
 В окне отображаются основные параметры:
 
 [table]
-Никнейм игрока
-Псевдоним персонажа
-Уровень
-Опыт
-Нация
-Боевой опыт
-Статус
+[Никнейм игрока](/sys/character/nickname)
+[Псевдоним персонажа](/sys/character/psevdo)
+[Уровень](/sys/character/level)
+[Опыт](/sys/character/experience)
+[Нация](/sys/character/nation)
+[Боевой опыт](/sys/character/BExperience)
+[Статус](/sys/character/Status)
 [Боны](/sys/economy/bon)
 [Реглы](/sys/economy/regl)
 Премиум
