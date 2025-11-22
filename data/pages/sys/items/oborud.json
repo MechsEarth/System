@@ -1,0 +1,15 @@
+{
+    "childrenSlugs": [
+        "sys/items/oborud/arm2",
+        "sys/items/oborud/pole2"
+    ],
+    "markdownContent": "# Оборудование\nОборудование 1-го уровня\n[table]\n![s=24 res=1984]() Броня 100 М1\n![s=24 res=1977]() Защитное поле 100 М1\n![s=24 res=1980]() Накопитель 100 М1\n![s=24 res=1982]() Реактор 100 М1\n![s=24 res=1075]() Трюм 60\n![s=24 res=1106]() Трюм 60ТМ1\n[/table]\n \nОборудование 2-го уровня\n[table]\n![s=24 res=1984]() [Броня 100 М2](/sys/items/oborud/arm2)\n![s=24 res=1977]() [Защитное поле 100 М2](/sys/items/oborud/pole2)\n[/table]",
+    "parentSlug": "sys/items",
+    "parentTitles": [
+        "ЕСИ",
+        "Предметы"
+    ],
+    "slug": "sys/items/oborud",
+    "tagSlugs": [],
+    "title": "Оборудование"
+}

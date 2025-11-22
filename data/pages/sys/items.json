@@ -1,8 +1,9 @@
 {
     "childrenSlugs": [
-        "sys/items/chips"
+        "sys/items/chips",
+        "sys/items/oborud"
     ],
-    "markdownContent": " \n[Чипы](/sys/items/chips)",
+    "markdownContent": " \n[Чипы](/sys/items/chips)\n[Оборудование](/sys/items/oborud)",
     "parentSlug": "sys",
     "parentTitles": [
         "ЕСИ"
