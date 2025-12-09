@@ -1,9 +1,10 @@
 {
     "childrenSlugs": [
         "sys/robots/warrior/filin",
-        "sys/robots/warrior/cassowary"
+        "sys/robots/warrior/cassowary",
+        "sys/robots/warrior/snowman"
     ],
-    "markdownContent": "[table]\n[Филин](/sys/robots/warrior/filin)\n[Казуар](/sys/robots/warrior/cassowary)\n[/table]",
+    "markdownContent": "[table]\n[Филин](/sys/robots/warrior/filin)\n[Казуар](/sys/robots/warrior/cassowary)\n[Снеговик](/sys/robots/warrior/snowman)\n[/table]",
     "parentSlug": "sys/robots",
     "parentTitles": [
         "ЕСИ",
