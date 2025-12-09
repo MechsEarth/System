@@ -14,6 +14,6 @@
 
 Оборудование 2-го уровня
 [table]
-![s=24 res=1984]() [Броня 100 М2](/sys/economy/design/oborud/arm2)
-![s=24 res=1977]() [Защитное поле 100 М2](/sys/economy/design/oborud/pole2)
+![s=24 res=1984]() [Броня 100 М1](/sys/economy/design/oborud/arm2)
+![s=24 res=1977]() [Защитное поле 100 М1](/sys/economy/design/oborud/pole2)
 [/table]
