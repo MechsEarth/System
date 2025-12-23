@@ -11,5 +11,6 @@
 ➖ [Паки](/sys/economy/design/packages)
 ➖ [Апгрейды](/sys/economy/design/upgrades)
 ➖ Телепортаторы
+➖ Оружий
 
 Существует несколько уровней чертежей.
