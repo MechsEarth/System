@@ -9,15 +9,17 @@ ARROW
 DurotaN  
 Garfield  
 MagistoR  
-MYSTANG  
 Proudmoore  
 Sombra  
 TBAPb  
-_LaTo_
+_LaTo_ 
 
 ⚪ Никогда не попадали в ТОП3
+Bergovskaya  
 BrainSick  
 GymShark  
+MYSTANG  
+_SuMraK_  
 _KING_
 
 ___
@@ -26,9 +28,11 @@ ___
 
 🎖 Попадали в ТОП3
 6EC  
+BrainSick  
 MYSTANG  
 Sombra  
-XAJIK
+XAJIK  
+xXx  
 
 ⚪ Никогда не попадали в ТОП3
 3aHbl4ka  
@@ -36,26 +40,29 @@ XAJIK
 Ahuve  
 Alfa_01  
 ARROW  
-BrainSick  
 CAPAH4A  
 Cerillds  
+Dedmashins  
 Destiny  
-dvb  
+DurotaN  
+Garfield  
 GymShark  
+Kamado  
 KitsuneZEA  
-leskaleska  
 Lili  
+Limon_  
 MAKARAMBA  
 Master_Chief  
 MOBak  
-pal  
-paravoz_  
+PILOT215  
 Robik250  
 WOOFEL  
-xXx  
 _KING_  
-_SERJANT_
-
+_SERJANT_  
+dvb  
+leskaleska  
+pal  
+paravoz_
 ___
 
 🟧 Категория **СЕРЖАНТ**
@@ -64,32 +71,40 @@ ___
 _APECTAHT_  
 Destiny  
 iPhone  
+Kamado  
 Limon_  
 MAKARAMBA  
 PodpivAss  
 RedKet  
+Robik250  
 WOOFEL  
-ZVUM
+ZVUM  
 
 ⚪ Никогда не попадали в ТОП3
+3aHbl4ka  
+5renko  
 6yKaLLIe4ka  
-Alfa_01  
 ANISIM  
+Alfa_01  
+_AMATEPACY_  
 Big_Boss  
 Cerillds  
-dvb  
 Dedmashins  
+Dubstep  
+dvb  
 eternity  
 Galvatron  
-Kamado  
-pal  
-Personne  
-Robik250  
-_SERJANT_  
-the_end  
-_AMATEPACY_  
+IIaIIITeT  
+_KING_  
+_MUT9l_  
 Netrunner  
+PILOT215  
+Personne  
 roboyanis  
+_SERJANT_  
+airvay  
+pal  
+the_end
 
 ___
 
@@ -100,46 +115,49 @@ ___
 _B_O_P_O_H_  
 _Shturmo_  
 Al9Ve  
-assay  
-butiratino  
+Alfa_01  
+CrazyMan  
 Destiny  
 Dubstep  
+EltaR  
 EvilZaya  
+Galvatron  
 KVAD  
 NGShahimat  
 Palladium  
+Petya  
+SKUF  
+Shturmo  
+Straik  
 SqueeZe  
 Trilobit  
+ZORDIN  
 ZVUM  
+assay  
+butiratino  
 
 ⚪ Никогда не попадали в ТОП3
 1Gor22  
-airvay  
-Amidamaru66  
 ANS  
+Amidamaru66  
 BuHTOPe3  
 CHAMPION  
-CrazyMan  
 Dedmashins  
-EltaR  
-eternity  
-Galvatron  
-igor2004  
 Kanfar  
 Krenon  
-Minotauro  
 MOBak  
-pal  
-Petya  
-Phantom  
+Minotauro  
 PILOT215  
 PMR  
+Phantom  
 PrikoLisT  
-Pyroman  
-roboyanis  
-SKUF  
-Straik  
 TeJlipatfu  
-_MUT9l_  
+airvay  
+dvb  
+eternity  
+igor2004  
+kpekep  
+roboyanis  
+_MUT9l_ 
 
 ___
