@@ -1,10 +1,9 @@
-
-
 ___
 
 🟦 Категория **ТОП**
 
 🎖 Попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 ARROW  
 DurotaN  
 Garfield  
@@ -13,28 +12,33 @@ Proudmoore
 Sombra  
 TBAPb  
 _LaTo_ 
-
+[/table]
+ 
 ⚪ Никогда не попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 Bergovskaya  
 BrainSick  
 GymShark  
 MYSTANG  
 _SuMraK_  
 _KING_
-
+[/table]
 ___
 
 🟩 Категория **СТАРШИНА**
 
 🎖 Попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 6EC  
 BrainSick  
 MYSTANG  
 Sombra  
 XAJIK  
 xXx  
-
+[/table]
+ 
 ⚪ Никогда не попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 3aHbl4ka  
 5renko  
 Ahuve  
@@ -63,11 +67,13 @@ dvb
 leskaleska  
 pal  
 paravoz_
+[/table]
 ___
 
 🟧 Категория **СЕРЖАНТ**
 
 🎖 Попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 _APECTAHT_  
 Destiny  
 iPhone  
@@ -79,8 +85,10 @@ RedKet
 Robik250  
 WOOFEL  
 ZVUM  
-
+[/table]
+ 
 ⚪ Никогда не попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 3aHbl4ka  
 5renko  
 6yKaLLIe4ka  
@@ -105,6 +113,7 @@ _SERJANT_
 airvay  
 pal  
 the_end
+[/table]
 
 ___
 
@@ -112,6 +121,7 @@ ___
 *(включая все варианты: «до 3000», «3000 БР», «БО<3000»)*
 
 🎖 Попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 _B_O_P_O_H_  
 _Shturmo_  
 Al9Ve  
@@ -134,9 +144,11 @@ Trilobit
 ZORDIN  
 ZVUM  
 assay  
-butiratino  
-
+butiratino 
+[/table] 
+ 
 ⚪ Никогда не попадали в ТОП3
+[table header=0 markdown=0 popup=1 selectable=1]
 1Gor22  
 ANS  
 Amidamaru66  
@@ -159,5 +171,6 @@ igor2004
 kpekep  
 roboyanis  
 _MUT9l_ 
+[/table]
 
 ___
