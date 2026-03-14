@@ -5,5 +5,6 @@
   * [Сержант](/sys/event/tok/sergeant)
   * [Старшина](/sys/event/tok/master)
   * [Топ](/sys/event/tok/top)
+  * [Командой 3x3](/sys/event/tok/3x3)
 
 *ТОК* - Треба, Опора, Крада.

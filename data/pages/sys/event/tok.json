@@ -7,9 +7,10 @@
         "sys/event/tok/master",
         "sys/event/tok/footer",
         "sys/event/tok/high",
-        "sys/event/tok/year"
+        "sys/event/tok/year",
+        "sys/event/tok/3x3"
     ],
-    "markdownContent": " # Турник ТОК БИТВ.\n![w=386 h=207 y=-10](img/sys/event/tok.jpg)\nКатегории:\n  * [Рядовой](/sys/event/tok/newbie)\n  * [Сержант](/sys/event/tok/sergeant)\n  * [Старшина](/sys/event/tok/master)\n  * [Топ](/sys/event/tok/top)\n\n*ТОК* - Треба, Опора, Крада.",
+    "markdownContent": " # Турник ТОК БИТВ.\n![w=386 h=207 y=-10](img/sys/event/tok.jpg)\nКатегории:\n  * [Рядовой](/sys/event/tok/newbie)\n  * [Сержант](/sys/event/tok/sergeant)\n  * [Старшина](/sys/event/tok/master)\n  * [Топ](/sys/event/tok/top)\n  * [Командой 3x3](/sys/event/tok/3x3)\n\n*ТОК* - Треба, Опора, Крада.",
     "parentSlug": "sys/event",
     "parentTitles": [
         "ЕСИ",
