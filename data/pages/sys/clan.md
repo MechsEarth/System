@@ -2,7 +2,7 @@
 Каждый клан может [разместить](/sys/about/join) в [ЕСИ](/sys) свою страницу или даже целый раздел, который доступен всем.
 ## Список кланов(пока ТОП15).
 [table]
-#1|TERRORISTS
+#1|[TERRORISTS](/sys/clan/88)
 #2|ChAoS~ArchiTectS
 #3|[Cerberus](/sys/clan/13)
 #4|[<<STORM>>](/sys/clan/10)
